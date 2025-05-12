@@ -168,7 +168,7 @@ Start the model server with a web interface:
 ```powershell
 python serve_model.py --port 5001
 python serve_model.py --model math-topic-classifier --version 1
-python serve_model.py --model math-topic-classifier --stage Staging
+python serve_model.py --model math-topic-classifier --stage Production
 python serve_model.py --change-stage --model math-topic-classifier --version 1 --target-stage Production
 ```
 
@@ -184,7 +184,7 @@ Deploy a registered model using MLflow's server:
 ```powershell
 $Env:MLFLOW_TRACKING_URI = "http://localhost:5000"
 $Env:MLFLOW_REGISTRY_URI = "http://localhost:5000"
-mlflow models serve -m "models:/math-topic-classifier/Production" -p 5001 --no-conda
+mlflow models serve -m "models:/math-topic-classifier-embeddings/Production" -p 5002 --no-conda
 ```
 
 ### Hybrid Mode
@@ -199,7 +199,7 @@ Use the FastAPI UI with MLflow's server for predictions:
 Track model performance and drift:
 
 ```powershell
-python src/monitor.py --model-name math-topic-classifier --stage Production --data-path data/monitoring1.csv
+python src/monitor.py --model-name math-topic-classifier-embeddings --stage Production --data-path data/monitoring1.csv
 ```
 
 Monitoring visualizations are saved to the `monitoring/` directory:
@@ -208,80 +208,6 @@ Monitoring visualizations are saved to the `monitoring/` directory:
 - Data drift analysis
 - Class distribution changes
 
-## API Usage
-
-### REST API Endpoints
-
-#### Prediction API
-
-```
-POST /predict
-Content-Type: application/json
-
-{
-  "questions": ["Solve for x in the equation 2x + 5 = 13"]
-}
-```
-
-Response:
-```json
-{
-  "predictions": [
-    {
-      "question": "Solve for x in the equation 2x + 5 = 13",
-      "topic_id": 0,
-      "topic_name": "Algebra"
-    }
-  ]
-}
-```
-
-#### Model Switching
-
-```
-POST /switch_model
-Content-Type: application/json
-
-{
-  "model_name": "math-topic-classifier-embeddings"
-}
-```
-
-#### MLflow Server Toggle
-
-```
-POST /toggle_mlflow_server
-Content-Type: application/json
-
-{
-  "enabled": true,
-  "server_url": "http://localhost:5000"
-}
-```
-
-## Model Types and Performance
-
-The system supports multiple model types with varying levels of performance:
-
-| Model Type | Description | Avg. Accuracy | Training Speed | Inference Speed |
-|------------|-------------|---------------|---------------|----------------|
-| Logistic Regression | Fast baseline model | ~80% | Very Fast | Very Fast |
-| Random Forest | Ensemble of decision trees | ~85% | Fast | Fast |
-| Gradient Boosting | Boosted tree ensemble | ~87% | Medium | Fast |
-| SVM | Support vector machine | ~83% | Medium | Fast |
-| Sentence Embeddings | Semantic text embeddings | ~90% | Medium | Medium |
-| DeBERTa | Transformer-based model | ~95% | Slow | Slow |
-| Hybrid Ensemble | Combined traditional + DL | ~96% | Very Slow | Medium |
-
-## Advanced Configuration
-
-### Environment Variables
-
-- `MLFLOW_TRACKING_URI`: MLflow server location (default: http://localhost:5000)
-- `MLFLOW_REGISTRY_URI`: MLflow model registry location
-- `LOGLEVEL`: Logging level (DEBUG, INFO, WARNING, ERROR)
-- `MODEL_CACHE_DIR`: Local directory for caching models
-
 ### Command Line Arguments
 
 The main scripts accept a variety of command line arguments. Use `--help` with any script to see available options:
@@ -289,44 +215,6 @@ The main scripts accept a variety of command line arguments. Use `--help` with a
 ```powershell
 python serve_model.py --help
 ```
-
-## Troubleshooting
-
-### Common Issues
-
-1. **Model loading errors**:
-   - Ensure MLflow server is running
-   - Check model exists in registry with correct name/stage
-   - Verify local model files are not corrupted
-
-2. **API connection errors**:
-   - Check server is running and port is accessible
-   - Verify correct URLs in configuration
-   - Check firewall settings
-
-3. **Performance issues**:
-   - Transformer models require significant resources
-   - Consider using embedding models for better performance
-   - Check for memory leaks in long-running services
-
-### Logs and Diagnostics
-
-Enable detailed logging for troubleshooting:
-
-```powershell
-$Env:LOGLEVEL = "DEBUG" 
-python serve_model.py
-```
-
-## Contributing
-
-Guidelines for contributing to this project:
-
-1. Follow coding standards in existing files
-2. Add tests for new functionality
-3. Document code and update this README for significant changes
-4. Use meaningful commit messages
-
 ## License
 
 This project is licensed under the MIT License. 
