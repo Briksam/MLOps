@@ -1,0 +1,14 @@
+mlflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+transformers
+torch
+optuna
+nltk
+joblib
+hyperopt
+python-dotenv
+sentence-transformers

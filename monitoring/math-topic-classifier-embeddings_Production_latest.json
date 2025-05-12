@@ -1,0 +1,10 @@
+{
+  "model_name": "math-topic-classifier-embeddings",
+  "model_stage": "Production",
+  "monitoring_timestamp": "2025-05-08T16:56:57.408137",
+  "data_samples": 369,
+  "f1_micro": 0.7479674796747967,
+  "accuracy": 0.7479674796747967,
+  "drift_detected": false,
+  "history_length": 5
+}

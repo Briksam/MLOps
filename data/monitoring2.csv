@@ -1,0 +1,96 @@
+Question,label
+"Compute the roots of the quadratic equation x^2−5x+6=0",0
+"Solve for x: 3x+7=2x−5",0
+"Factor the polynomial x^3−4x^2+x+6 completely over the integers",0
+"Find all real solutions to |2x−3|=7",0
+"Solve the system: {2x−y=3; x+2y=1}",0
+"Determine the value of k so that x^2+2kx+9 has a double root",0
+"Simplify (x^2−1)/(x−1) for x≠1",0
+"Solve x^3=8 for real x",0
+"Find x if log_2(x−1)=3",0
+"Express 1/(1−x) as a power series for |x|<1",0
+"Solve 4^x=64",0
+"Determine whether x=2 is a solution of x^3−8x+4=0",0
+"Compute the area of a triangle with base 10 and height 7",1
+"Find the circumradius of an equilateral triangle of side length a",1
+"Determine the length of the median to the hypotenuse in a right triangle with legs 3 and 4",1
+"Compute the length of arc subtended by a 60° angle in a circle of radius 5",1
+"Find the equation of the perpendicular bisector of the segment joining (1,2) and (5,6)",1
+"Calculate the area of a regular pentagon with side length s",1
+"Prove that the medians of a triangle intersect at a single point",1
+"Find the distance from (3,−1) to the line 2x−3y+6=0",1
+"Determine the volume of a right circular cone with radius r and height h",1
+"Compute the interior angles of a regular hexagon",1
+"Find the equation of the circle passing through (0,0), (1,0), and (0,1)",1
+"Evaluate d/dx of x^3−5x+2",2
+"Compute ∫_0^1 x^2 dx",2
+"Find the Maclaurin series for sin(x) up to x^5",2
+"Determine lim_{x→0} (sin x)/x",2
+"Solve y′+2y=0 with y(0)=3",2
+"Evaluate ∫ e^{2x} dx",2
+"Compute the second derivative of f(x)=ln(x)",2
+"Find ∂/∂x of x^2y+3xy^2 treating y as constant",2
+"Determine ∫_1^e (1/x) dx",2
+"Compute the Taylor polynomial of degree 2 for e^x at x=0",2
+"Solve the differential equation y''−4y=0",2
+"Evaluate ∫_0^{π/2} cos(x) dx",2
+"What is the probability of getting exactly two heads in three fair coin tosses?",3
+"A box contains 5 red and 7 blue balls; one is drawn at random. Find P(red)",3
+"Compute the expected value of a fair six-sided die roll",3
+"If two dice are rolled, what is P(sum=8)?",3
+"Find the variance of a Bernoulli(p) distribution",3
+"In a deck of 52 cards, what is P(ace of spades)?",3
+"Compute P(at least one six in two fair dice rolls)",3
+"Given P(A)=0.3, P(B)=0.4, P(A∩B)=0.1, find P(A∪B)",3
+"Find P(exactly three successes in five trials with p=0.2)",3
+"Compute the Poisson probability P(X=2) for λ=3",3
+"What is the probability of no events in time t for a Poisson process with rate λ?",3
+"In a random permutation of 4 elements, find P(fixed point at position 1)",3
+"Find all positive integers n such that n divides 2^n−2",4
+"Solve 3x≡1 mod 7 for x",4
+"Find the greatest common divisor of 84 and 126",4
+"Determine whether 101 is prime",4
+"Solve x^2≡4 mod 11",4
+"Compute φ(20), where φ is Euler's totient function",4
+"Find all integer solutions to 2x−3y=1",4
+"Determine the highest power of 2 dividing 100!",4
+"Find the last two digits of 7^50",4
+"Solve 5^x≡3 mod 7",4
+"Prove that there are infinitely many primes",4
+"Find the remainder when 12345 is divided by 9",4
+"How many ways to choose 3 objects from 10 without order?",5
+"In how many ways can 5 books be arranged on a shelf?",5
+"Compute C(8,3)",5
+"Find the number of subsets of a set of size n",5
+"How many bit strings of length 6 have exactly three 1's?",5
+"Determine the number of onto functions from a 3-element set to a 2-element set",5
+"In how many ways can 7 identical balls be placed into 3 distinct boxes?",5
+"Compute the number of permutations of 'BANANA'",5
+"Find the number of ways to split 10 into a sum of positive integers",5
+"How many integer solutions to x+y+z=10 with x,y,z≥0?",5
+"Determine the number of 5-letter words (with repetition) from 26 letters",5
+"Count the number of lattice paths from (0,0) to (3,3) using steps (1,0) and (0,1)",5
+"Find the rank of the matrix [[1,2],[3,6]]",6
+"Determine if the vectors (1,0,2), (0,1,−1), (2,−1,3) in R^3 are linearly independent",6
+"Compute the determinant of [[2,3],[5,7]]",6
+"Find the eigenvalues of [[1,2],[2,1]]",6
+"Solve Ax=b where A=[[1,0],[0,2]] and b=(3,4)",6
+"Determine the trace of a 3×3 identity matrix",6
+"Compute the inverse of [[4,7],[2,5]]",6
+"Find the null space of [[1,2,3]]",6
+"Prove that if det(A)≠0 then A is invertible",6
+"Compute the dimension of the space of 2×2 symmetric matrices",6
+"Find an orthonormal basis for R^2",6
+"Determine whether the set of polynomials {1,x,x^2} is a basis for P_2",6
+"Let G be a group of order 7. Prove G is cyclic",7
+"Show that every subgroup of a cyclic group is cyclic",7
+"Define a ring and give an example",7
+"Prove that in a field, 0 has no multiplicative inverse",7
+"State and prove Lagrange's theorem in group theory",7
+"Find all automorphisms of Z under addition",7
+"Prove that any group of prime order is simple",7
+"Show that the center of a group is a subgroup",7
+"Define an ideal in a ring",7
+"Prove that the kernel of a ring homomorphism is an ideal",7
+"State the First Isomorphism Theorem for groups",7
+"Give an example of a nonabelian group of order 6",7

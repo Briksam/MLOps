@@ -1,0 +1,371 @@
+Question,label
+Count the number of binary strings of length 6 with exactly 12 ones,5
+What is the probability of drawing 13 red balls from a bag of 1 red and 7 blue balls?,3
+"Find the determinant of the matrix [[8, 14], [16, 3]]",6
+Find the number of onto functions from a 7-element set to a 20-element set,5
+Find all ring homomorphisms from Z to Z_15,7
+In how many ways can 14 identical items be placed into 18 distinct boxes?,5
+How many ways to choose 18 objects from 15 without order?,5
+Solve 17x ≡ 13 mod 8,4
+What is the probability of drawing 3 red balls from a bag of 11 red and 13 blue balls?,3
+Compute the sum of the roots of x^2 - 4x + 12 = 0,0
+"Determine if the vectors (5, 3, 11) and (3, 5, 9) in R^3 are linearly independent",6
+"Find the determinant of the matrix [[2, 5], [5, 9]]",6
+How many ways to choose 16 objects from 4 without order?,5
+Factor the expression x^2 + 16x + 4,0
+"Compute the eigenvalues of [[7, 6], [4, 3]]",6
+Factor the expression x^2 + 6x + 14,0
+"Find the rank of the matrix [[5, 20, 17], [7, 3, 13], [15, 8, 1]]",6
+"Solve Ax = b for A = [[16, 16], [14, 2]] and b = (17, 12)",6
+"Find the rank of the matrix [[19, 4, 18], [8, 13, 3], [3, 6, 16]]",6
+Find the derivative of x^13 + 10x + 4,2
+"Solve Ax = b for A = [[19, 4], [3, 9]] and b = (14, 20)",6
+Solve the linear equation 2x + 13 = 20,0
+Evaluate the integral ∫ 4 x^20 dx,2
+"Find the determinant of the matrix [[8, 11], [4, 11]]",6
+"Determine if the vectors (9, 18, 20) and (6, 19, 14) in R^3 are linearly independent",6
+Find the highest power of 16 dividing 6!,4
+Find P(sum = 4) when two 1-sided dice are rolled,3
+Compute the sum of the roots of x^2 - 7x + 3 = 0,0
+Find the derivative of x^8 + 15x + 15,2
+Solve 12x ≡ 14 mod 3,4
+Find the highest power of 9 dividing 20!,4
+"Find the determinant of the matrix [[16, 10], [18, 12]]",6
+Solve the linear equation 14x + 3 = 2,0
+Find P(sum = 17) when two 20-sided dice are rolled,3
+"Find gcd(19, 6)",4
+"Compute the distance between (6,17) and (13,18)",1
+Solve the linear equation 16x + 15 = 9,0
+Compute ∂/∂x of 10x^2y + 3xy^2,2
+"Find the rank of the matrix [[11, 17, 14], [13, 19, 10], [7, 1, 5]]",6
+What is the probability of drawing 9 red balls from a bag of 10 red and 11 blue balls?,3
+Solve the linear equation 12x + 6 = 19,0
+"Compute the distance between (3,9) and (16,16)",1
+What is the probability of drawing 7 red balls from a bag of 9 red and 14 blue balls?,3
+Compute the expected value of rolling a fair 18-sided die,3
+"Compute the eigenvalues of [[10, 19], [15, 20]]",6
+Compute the expected value of rolling a fair 9-sided die,3
+Solve the linear equation 8x + 10 = 1,0
+Evaluate the integral ∫ 11 x^19 dx,2
+Find the domain of f(x) = 1 / (x - 20),0
+What is the probability of drawing 16 red balls from a bag of 4 red and 14 blue balls?,3
+Find the highest power of 12 dividing 4!,4
+"Compute C(2, 9)",5
+"Given P(A) = 6, P(B) = 4, P(A∩B) = 3, find P(A|B)",3
+What is the probability of drawing 3 red balls from a bag of 8 red and 8 blue balls?,3
+Simplify the expression (8x^2 - 1x + 13) / (18x - 16),0
+Compute the sum of the roots of x^2 - 9x + 7 = 0,0
+"Find the area of a triangle with vertices (15,2) , (12,9) , and (14,16)",1
+Compute the sum of the roots of x^2 - 10x + 14 = 0,0
+Find all ring homomorphisms from Z to Z_2,7
+"If a fair coin is flipped 13 times, what is P(exactly 11 heads)?",3
+Find the derivative of x^8 + 15x + 9,2
+Compute the expected value of rolling a fair 7-sided die,3
+Solve the linear equation 1x + 9 = 18,0
+"Compute the distance between (12,7) and (19,1)",1
+In how many ways can 10 identical items be placed into 10 distinct boxes?,5
+"Compute the eigenvalues of [[6, 10], [19, 5]]",6
+"Find the equation of the line passing through (17,2) and (17,4)",1
+Factor the expression x^2 + 7x + 3,0
+"Compute the distance between (19,12) and (16,10)",1
+Evaluate the integral ∫ 2 x^16 dx,2
+"Compute the distance between (1,12) and (13,12)",1
+Compute ∂/∂x of 9x^2y + 19xy^2,2
+Determine if 8 is a prime number,4
+"Compute the eigenvalues of [[8, 1], [20, 5]]",6
+Find the Taylor series expansion of e^x up to x^18,2
+"Given P(A) = 4, P(B) = 5, P(A∩B) = 19, find P(A|B)",3
+What is the probability of drawing 15 red balls from a bag of 18 red and 18 blue balls?,3
+Find P(sum = 6) when two 2-sided dice are rolled,3
+"If a fair coin is flipped 1 times, what is P(exactly 17 heads)?",3
+Solve the linear equation 20x + 2 = 6,0
+"Find the equation of the line passing through (15,11) and (18,5)",1
+"Compute the distance between (4,1) and (20,15)",1
+"Solve Ax = b for A = [[7, 19], [9, 17]] and b = (17, 19)",6
+"Find the determinant of the matrix [[17, 2], [13, 5]]",6
+"Compute C(16, 16)",5
+Simplify the expression (1x^2 - 7x + 9) / (17x - 10),0
+Solve the linear equation 17x + 9 = 3,0
+In how many ways can 18 identical items be placed into 17 distinct boxes?,5
+"Find gcd(1, 4)",4
+"Find the determinant of the matrix [[14, 7], [14, 16]]",6
+Simplify the expression (17x^2 - 6x + 10) / (19x - 20),0
+Solve 11x ≡ 13 mod 13,4
+"Find the area of a triangle with vertices (17,20) , (2,17) , and (15,5)",1
+"Find the equation of the line passing through (3,5) and (4,2)",1
+How many ways to choose 4 objects from 13 without order?,5
+Evaluate the integral ∫ 19 x^4 dx,2
+Solve the linear equation 5x + 6 = 17,0
+Find the Taylor series expansion of e^x up to x^15,2
+Find the derivative of x^17 + 7x + 4,2
+Find the highest power of 3 dividing 8!,4
+"Determine if the vectors (18, 19, 17) and (4, 9, 13) in R^3 are linearly independent",6
+"Determine if the vectors (15, 19, 5) and (9, 13, 9) in R^3 are linearly independent",6
+Compute ∂/∂x of 7x^2y + 8xy^2,2
+"If a fair coin is flipped 14 times, what is P(exactly 2 heads)?",3
+"Find the equation of the line passing through (2,8) and (7,20)",1
+Simplify the expression (11x^2 - 5x + 1) / (15x - 4),0
+"Solve Ax = b for A = [[10, 15], [3, 2]] and b = (20, 4)",6
+Simplify the expression (13x^2 - 11x + 3) / (7x - 3),0
+What is the probability of drawing 2 red balls from a bag of 19 red and 6 blue balls?,3
+Find the number of onto functions from a 20-element set to a 3-element set,5
+Solve the linear equation 8x + 12 = 8,0
+Simplify the expression (12x^2 - 19x + 16) / (2x - 19),0
+Determine the measure of each interior angle of a regular 15-gon,1
+Determine the measure of each interior angle of a regular 5-gon,1
+Solve the linear equation 13x + 11 = 16,0
+Compute the sum of the roots of x^2 - 10x + 3 = 0,0
+"Compute the eigenvalues of [[17, 12], [7, 19]]",6
+Find all ring homomorphisms from Z to Z_3,7
+Count the number of binary strings of length 18 with exactly 20 ones,5
+How many ways to choose 3 objects from 5 without order?,5
+"Given P(A) = 7, P(B) = 1, P(A∩B) = 7, find P(A|B)",3
+Simplify the expression (10x^2 - 6x + 13) / (3x - 12),0
+Count the number of binary strings of length 12 with exactly 16 ones,5
+Solve 1x ≡ 18 mod 13,4
+Count the number of binary strings of length 8 with exactly 17 ones,5
+Compute the sum of the roots of x^2 - 9x + 17 = 0,0
+"Solve Ax = b for A = [[14, 12], [18, 2]] and b = (18, 19)",6
+Factor the expression x^2 + 5x + 10,0
+"Find the determinant of the matrix [[10, 14], [18, 19]]",6
+Simplify the expression (10x^2 - 3x + 17) / (7x - 5),0
+"Compute the eigenvalues of [[19, 10], [16, 11]]",6
+Solve 14x ≡ 3 mod 9,4
+"Compute C(20, 20)",5
+Find P(sum = 4) when two 16-sided dice are rolled,3
+"Compute the distance between (8,3) and (3,11)",1
+"Find gcd(8, 14)",4
+"Find the determinant of the matrix [[10, 1], [14, 13]]",6
+Solve the linear equation 1x + 2 = 6,0
+"Determine if the vectors (1, 5, 3) and (6, 13, 4) in R^3 are linearly independent",6
+Find the highest power of 2 dividing 10!,4
+Compute ∂/∂x of 2x^2y + 5xy^2,2
+"If a fair coin is flipped 11 times, what is P(exactly 20 heads)?",3
+"Solve Ax = b for A = [[20, 18], [12, 8]] and b = (19, 2)",6
+Determine the measure of each interior angle of a regular 17-gon,1
+Compute the sum of the roots of x^2 - 6x + 3 = 0,0
+Find the number of onto functions from a 1-element set to a 18-element set,5
+What is the probability of drawing 12 red balls from a bag of 6 red and 16 blue balls?,3
+Factor the expression x^2 + 5x + 15,0
+"Compute the distance between (3,6) and (15,14)",1
+Find the number of onto functions from a 14-element set to a 10-element set,5
+"Compute C(15, 14)",5
+"Given P(A) = 5, P(B) = 15, P(A∩B) = 15, find P(A|B)",3
+Compute the expected value of rolling a fair 11-sided die,3
+Evaluate the integral ∫ 15 x^17 dx,2
+"Solve Ax = b for A = [[10, 20], [18, 5]] and b = (4, 8)",6
+"If a fair coin is flipped 5 times, what is P(exactly 14 heads)?",3
+Simplify the expression (17x^2 - 3x + 8) / (6x - 17),0
+Solve 18x ≡ 9 mod 16,4
+"Find the rank of the matrix [[2, 14, 20], [17, 3, 10], [10, 18, 18]]",6
+"Compute C(1, 12)",5
+"If a fair coin is flipped 16 times, what is P(exactly 17 heads)?",3
+"Compute the eigenvalues of [[7, 19], [17, 19]]",6
+Find P(sum = 16) when two 10-sided dice are rolled,3
+Evaluate the integral ∫ 3 x^6 dx,2
+"Given P(A) = 16, P(B) = 1, P(A∩B) = 2, find P(A|B)",3
+Find the Taylor series expansion of e^x up to x^6,2
+"Determine if the vectors (20, 16, 14) and (14, 19, 4) in R^3 are linearly independent",6
+"If a fair coin is flipped 8 times, what is P(exactly 12 heads)?",3
+"Compute C(13, 18)",5
+Find the highest power of 12 dividing 1!,4
+"If a fair coin is flipped 9 times, what is P(exactly 1 heads)?",3
+Find P(sum = 4) when two 8-sided dice are rolled,3
+Evaluate the integral ∫ 20 x^9 dx,2
+Compute the sum of the roots of x^2 - 10x + 9 = 0,0
+Find the highest power of 14 dividing 4!,4
+Count the number of binary strings of length 17 with exactly 18 ones,5
+"Find the equation of the line passing through (2,4) and (6,15)",1
+Determine the measure of each interior angle of a regular 14-gon,1
+"Find the rank of the matrix [[2, 2, 18], [19, 18, 13], [20, 12, 17]]",6
+Determine if 17 is a prime number,4
+Evaluate the integral ∫ 17 x^12 dx,2
+Find the highest power of 15 dividing 12!,4
+"Find gcd(13, 7)",4
+Find the derivative of x^9 + 2x + 13,2
+Simplify the expression (17x^2 - 10x + 20) / (9x - 6),0
+"Compute the distance between (12,14) and (14,15)",1
+Find the derivative of x^7 + 19x + 8,2
+"Find the rank of the matrix [[9, 3, 3], [4, 16, 11], [10, 14, 3]]",6
+"Find the area of a triangle with vertices (12,3) , (5,3) , and (7,18)",1
+Compute the sum of the roots of x^2 - 17x + 9 = 0,0
+"Solve Ax = b for A = [[16, 14], [12, 15]] and b = (17, 13)",6
+Find the derivative of x^18 + 20x + 9,2
+"If a fair coin is flipped 3 times, what is P(exactly 7 heads)?",3
+Factor the expression x^2 + 6x + 18,0
+"Given P(A) = 4, P(B) = 2, P(A∩B) = 9, find P(A|B)",3
+Evaluate the integral ∫ 18 x^15 dx,2
+Find the highest power of 7 dividing 6!,4
+"Solve Ax = b for A = [[2, 16], [17, 19]] and b = (20, 1)",6
+Find P(sum = 8) when two 8-sided dice are rolled,3
+In how many ways can 8 identical items be placed into 16 distinct boxes?,5
+Factor the expression x^2 + 2x + 7,0
+Compute ∂/∂x of 3x^2y + 11xy^2,2
+"Compute the distance between (11,17) and (15,4)",1
+"Compute C(20, 10)",5
+"Compute the distance between (3,4) and (18,15)",1
+"Compute C(10, 4)",5
+Find P(sum = 2) when two 4-sided dice are rolled,3
+"Compute C(1, 4)",5
+"Find the area of a triangle with vertices (4,13) , (12,9) , and (9,8)",1
+How many ways to choose 15 objects from 12 without order?,5
+"Find the determinant of the matrix [[3, 3], [3, 1]]",6
+Find the highest power of 18 dividing 8!,4
+"Determine if the vectors (12, 9, 6) and (14, 16, 16) in R^3 are linearly independent",6
+How many ways to choose 19 objects from 19 without order?,5
+Solve 8x ≡ 11 mod 1,4
+"Find the determinant of the matrix [[3, 2], [14, 8]]",6
+Compute the expected value of rolling a fair 14-sided die,3
+"Determine if the vectors (20, 8, 9) and (9, 5, 1) in R^3 are linearly independent",6
+Solve 10x ≡ 7 mod 20,4
+Count the number of binary strings of length 2 with exactly 10 ones,5
+How many ways to choose 13 objects from 1 without order?,5
+Find the domain of f(x) = 1 / (x - 4),0
+Find the derivative of x^2 + 17x + 8,2
+How many ways to choose 12 objects from 8 without order?,5
+"Solve Ax = b for A = [[16, 15], [7, 12]] and b = (6, 20)",6
+"Compute the distance between (5,17) and (19,15)",1
+"If a fair coin is flipped 12 times, what is P(exactly 1 heads)?",3
+Find the number of onto functions from a 20-element set to a 9-element set,5
+Factor the expression x^2 + 3x + 16,0
+"Solve Ax = b for A = [[3, 2], [16, 11]] and b = (12, 20)",6
+Evaluate the integral ∫ 3 x^16 dx,2
+Factor the expression x^2 + 12x + 3,0
+Solve 12x ≡ 8 mod 3,4
+"If a fair coin is flipped 1 times, what is P(exactly 2 heads)?",3
+Simplify the expression (11x^2 - 8x + 14) / (9x - 15),0
+"Given P(A) = 20, P(B) = 5, P(A∩B) = 10, find P(A|B)",3
+"Compute the distance between (17,17) and (17,8)",1
+Find the number of onto functions from a 6-element set to a 1-element set,5
+"Given P(A) = 4, P(B) = 10, P(A∩B) = 6, find P(A|B)",3
+Compute the sum of the roots of x^2 - 5x + 12 = 0,0
+"Given P(A) = 11, P(B) = 15, P(A∩B) = 18, find P(A|B)",3
+Simplify the expression (11x^2 - 12x + 15) / (15x - 12),0
+"Find the area of a triangle with vertices (9,15) , (12,2) , and (15,8)",1
+Factor the expression x^2 + 18x + 15,0
+Solve the linear equation 20x + 13 = 15,0
+"Solve Ax = b for A = [[17, 9], [17, 10]] and b = (4, 11)",6
+"If a fair coin is flipped 17 times, what is P(exactly 11 heads)?",3
+"Find the rank of the matrix [[2, 3, 7], [4, 19, 8], [12, 2, 10]]",6
+In how many ways can 8 identical items be placed into 17 distinct boxes?,5
+"Find the equation of the line passing through (2,14) and (3,7)",1
+"Find the determinant of the matrix [[9, 1], [10, 1]]",6
+"If a fair coin is flipped 9 times, what is P(exactly 4 heads)?",3
+Find the Taylor series expansion of e^x up to x^2,2
+"If a fair coin is flipped 12 times, what is P(exactly 14 heads)?",3
+"Find the determinant of the matrix [[19, 14], [19, 1]]",6
+"If a fair coin is flipped 15 times, what is P(exactly 19 heads)?",3
+Find the derivative of x^16 + 3x + 11,2
+"Determine if the vectors (12, 19, 19) and (16, 17, 17) in R^3 are linearly independent",6
+Compute the sum of the roots of x^2 - 12x + 5 = 0,0
+Find the number of onto functions from a 2-element set to a 15-element set,5
+"Find the determinant of the matrix [[18, 4], [19, 9]]",6
+Compute the sum of the roots of x^2 - 1x + 4 = 0,0
+"If a fair coin is flipped 19 times, what is P(exactly 15 heads)?",3
+"Find the equation of the line passing through (10,6) and (4,3)",1
+"Compute the distance between (3,5) and (4,14)",1
+"Find gcd(19, 12)",4
+Factor the expression x^2 + 16x + 3,0
+Compute ∂/∂x of 7x^2y + 18xy^2,2
+"Compute the distance between (7,10) and (18,5)",1
+Find the derivative of x^5 + 4x + 18,2
+Compute φ(2),4
+"Given P(A) = 15, P(B) = 9, P(A∩B) = 19, find P(A|B)",3
+Simplify the expression (18x^2 - 2x + 6) / (10x - 13),0
+How many ways to choose 16 objects from 16 without order?,5
+"Find the determinant of the matrix [[8, 20], [6, 12]]",6
+Simplify the expression (6x^2 - 19x + 12) / (2x - 15),0
+Find the number of onto functions from a 10-element set to a 16-element set,5
+What is the probability of drawing 7 red balls from a bag of 13 red and 12 blue balls?,3
+Simplify the expression (18x^2 - 4x + 6) / (6x - 6),0
+"Solve Ax = b for A = [[3, 16], [3, 18]] and b = (11, 5)",6
+Factor the expression x^2 + 16x + 20,0
+What is the probability of drawing 8 red balls from a bag of 16 red and 1 blue balls?,3
+"If a fair coin is flipped 2 times, what is P(exactly 6 heads)?",3
+Solve 20x ≡ 12 mod 11,4
+"Find the rank of the matrix [[14, 1, 20], [11, 16, 7], [19, 10, 7]]",6
+"Find the rank of the matrix [[6, 18, 5], [11, 19, 4], [2, 13, 10]]",6
+Compute ∂/∂x of 1x^2y + 7xy^2,2
+"Compute the eigenvalues of [[3, 5], [8, 11]]",6
+Find the derivative of x^11 + 16x + 13,2
+Find the highest power of 6 dividing 11!,4
+Compute ∂/∂x of 8x^2y + 10xy^2,2
+How many ways to choose 15 objects from 5 without order?,5
+"Find gcd(14, 3)",4
+"If a fair coin is flipped 20 times, what is P(exactly 12 heads)?",3
+Find the highest power of 13 dividing 6!,4
+Solve 20x ≡ 18 mod 7,4
+"If a fair coin is flipped 12 times, what is P(exactly 2 heads)?",3
+Count the number of binary strings of length 4 with exactly 16 ones,5
+Compute φ(5),4
+"Find the determinant of the matrix [[8, 17], [6, 5]]",6
+"Find gcd(4, 1)",4
+"Find the area of a triangle with vertices (18,15) , (8,12) , and (2,2)",1
+Compute ∂/∂x of 20x^2y + 9xy^2,2
+"Given P(A) = 14, P(B) = 11, P(A∩B) = 3, find P(A|B)",3
+Compute ∂/∂x of 3x^2y + 5xy^2,2
+Find the highest power of 10 dividing 8!,4
+Find the domain of f(x) = 1 / (x - 8),0
+"Compute the distance between (10,4) and (20,16)",1
+Determine the measure of each interior angle of a regular 6-gon,1
+"Find the equation of the line passing through (6,14) and (1,6)",1
+"Compute the eigenvalues of [[12, 14], [17, 7]]",6
+In how many ways can 10 identical items be placed into 13 distinct boxes?,5
+Solve the linear equation 8x + 15 = 4,0
+"Find the determinant of the matrix [[4, 1], [7, 20]]",6
+Find the derivative of x^15 + 15x + 7,2
+Compute the sum of the roots of x^2 - 9x + 14 = 0,0
+"Solve Ax = b for A = [[5, 8], [11, 15]] and b = (18, 10)",6
+"Determine if the vectors (8, 12, 9) and (8, 10, 16) in R^3 are linearly independent",6
+How many ways to choose 19 objects from 16 without order?,5
+Solve the linear equation 18x + 18 = 8,0
+"Compute the distance between (19,17) and (2,16)",1
+"Given P(A) = 10, P(B) = 7, P(A∩B) = 20, find P(A|B)",3
+Find the number of onto functions from a 10-element set to a 6-element set,5
+"Compute the eigenvalues of [[1, 19], [5, 15]]",6
+Determine if 6 is a prime number,4
+Evaluate the integral ∫ 2 x^17 dx,2
+Calculate the area of a circle with radius 11,1
+"Determine if the vectors (17, 16, 18) and (11, 19, 8) in R^3 are linearly independent",6
+"Determine if the vectors (4, 11, 1) and (1, 20, 7) in R^3 are linearly independent",6
+Compute ∂/∂x of 3x^2y + 12xy^2,2
+Count the number of binary strings of length 19 with exactly 5 ones,5
+Compute the sum of the roots of x^2 - 19x + 15 = 0,0
+"Given P(A) = 1, P(B) = 19, P(A∩B) = 14, find P(A|B)",3
+"Find the area of a triangle with vertices (17,15) , (20,3) , and (4,4)",1
+What is the probability of drawing 17 red balls from a bag of 1 red and 9 blue balls?,3
+In how many ways can 5 identical items be placed into 18 distinct boxes?,5
+Solve 13x ≡ 18 mod 8,4
+"Compute the distance between (7,1) and (6,4)",1
+How many ways to choose 18 objects from 16 without order?,5
+What is the probability of drawing 13 red balls from a bag of 15 red and 16 blue balls?,3
+"Find the equation of the line passing through (9,8) and (14,16)",1
+How many ways to choose 10 objects from 3 without order?,5
+"Given P(A) = 12, P(B) = 11, P(A∩B) = 8, find P(A|B)",3
+Solve 6x ≡ 17 mod 1,4
+Find the number of onto functions from a 7-element set to a 3-element set,5
+Find the highest power of 6 dividing 16!,4
+Calculate the area of a circle with radius 8,1
+"Determine if the vectors (16, 3, 17) and (11, 19, 12) in R^3 are linearly independent",6
+Evaluate the integral ∫ 20 x^12 dx,2
+Factor the expression x^2 + 4x + 3,0
+Calculate the area of a circle with radius 2,1
+"Find the rank of the matrix [[14, 11, 6], [15, 11, 11], [13, 6, 17]]",6
+"Find the equation of the line passing through (11,16) and (6,5)",1
+"Determine if the vectors (12, 1, 1) and (12, 20, 7) in R^3 are linearly independent",6
+Evaluate the integral ∫ 10 x^4 dx,2
+Find the highest power of 5 dividing 2!,4
+Count the number of binary strings of length 5 with exactly 15 ones,5
+Calculate the area of a circle with radius 10,1
+"Determine if the vectors (13, 11, 16) and (2, 19, 2) in R^3 are linearly independent",6
+"Determine if the vectors (13, 9, 2) and (9, 2, 9) in R^3 are linearly independent",6
+Compute ∂/∂x of 16x^2y + 1xy^2,2
+Find the highest power of 17 dividing 7!,4
+"Solve Ax = b for A = [[20, 19], [20, 7]] and b = (16, 4)",6
+Find the domain of f(x) = 1 / (x - 10),0
+Evaluate the integral ∫ 9 x^5 dx,2
+Solve the linear equation 18x + 18 = 20,0
+"Find the rank of the matrix [[5, 7, 18], [16, 4, 13], [5, 12, 12]]",6
+Count the number of binary strings of length 11 with exactly 3 ones,5
+Find P(sum = 13) when two 1-sided dice are rolled,3
+                                                    

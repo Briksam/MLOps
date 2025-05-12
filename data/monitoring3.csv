@@ -1,0 +1,1001 @@
+Question,label
+What is the nth term of the sequence defined by a_n = 8n + 4?,7
+What is the perimeter of a rectangle with sides 4 and 5?,4
+How many ways can you choose 6 items from 10?,5
+"What is the rank of the matrix [[5, 5], [9, 6]]?",6
+Find the number of arrangements of the letters in the word 'MATH',5
+Evaluate: 8 - 5 ÷ 1,1
+Evaluate: 1 - 1 ÷ 3,1
+"If A is a 2x2 matrix, what is A^2 for A = [[10, 10], [6, 10]]?",6
+Compute the result of (1 + 3) × 6,1
+What is the perimeter of a rectangle with sides 7 and 6?,4
+"If A is a 2x2 matrix, what is A^2 for A = [[9, 8], [6, 9]]?",6
+Solve for x: 1x + 8 = 1,0
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 2], [4, 9]]?",6
+Find the roots of the equation 7x^2 + 5x + 8 = 0,0
+How many ways can you choose 2 items from 6?,5
+What is the derivative of sin(9x)?,2
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 5?,7
+Find the probability of rolling a total of 3 with two dice.,3
+"If a coin is flipped 10 times, what is the probability of getting exactly 7 heads?",3
+Find the sum of the first 5 terms of the geometric series with ratio 10,7
+Evaluate: 7 - 5 ÷ 7,1
+"If a coin is flipped 6 times, what is the probability of getting exactly 1 heads?",3
+"If x + 6 = 7, what is the value of x?",0
+"If x + 6 = 7, what is the value of x?",0
+Find the area of a triangle with base 1 and height 9,4
+What is the chance of drawing an ace from a standard deck?,3
+What is the perimeter of a rectangle with sides 5 and 5?,4
+What is the derivative of sin(2x)?,2
+In how many ways can 7 people sit on a bench?,5
+What is the nth term of the sequence defined by a_n = 9n + 8?,7
+What is the derivative of sin(4x)?,2
+Find the probability of rolling a total of 10 with two dice.,3
+"If x + 7 = 4, what is the value of x?",0
+What is the perimeter of a rectangle with sides 2 and 1?,4
+Differentiate: f(x) = 2x^10,2
+In how many ways can 9 people sit on a bench?,5
+In how many ways can 10 people sit on a bench?,5
+"Compute the determinant of matrix [[4, 3], [10, 5]]",6
+"If x + 2 = 7, what is the value of x?",0
+Find the roots of the equation 7x^2 + 10x + 7 = 0,0
+Find the area of a triangle with base 8 and height 4,4
+Calculate the volume of a cube with side length 7,4
+Solve for x: 6x + 9 = 10,0
+Calculate the volume of a cube with side length 1,4
+Find the area of a triangle with base 6 and height 5,4
+Find the area of a triangle with base 4 and height 6,4
+"If A is a 2x2 matrix, what is A^2 for A = [[3, 9], [2, 2]]?",6
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 9?,7
+"If x + 7 = 10, what is the value of x?",0
+Find the sum of the first 10 terms of the geometric series with ratio 9,7
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the perimeter of a rectangle with sides 10 and 9?,4
+Evaluate: 4 - 2 ÷ 10,1
+"Compute the determinant of matrix [[10, 1], [8, 7]]",6
+Calculate the volume of a cube with side length 3,4
+Differentiate: f(x) = 4x^10,2
+What is the perimeter of a rectangle with sides 6 and 6?,4
+What is the value of 1 + 7 × 5?,1
+In how many ways can 9 people sit on a bench?,5
+"What is the rank of the matrix [[6, 6], [10, 3]]?",6
+Find the roots of the equation 4x^2 + 1x + 7 = 0,0
+"If x + 7 = 3, what is the value of x?",0
+Find the sum of the first 10 terms of the geometric series with ratio 3,7
+"Compute the determinant of matrix [[7, 10], [8, 5]]",6
+What is the perimeter of a rectangle with sides 6 and 10?,4
+What is the 10th term of an arithmetic sequence with first term 8 and common difference 1?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+"What is the rank of the matrix [[9, 9], [2, 9]]?",6
+"If x + 6 = 6, what is the value of x?",0
+Calculate the volume of a cube with side length 8,4
+In how many ways can 3 people sit on a bench?,5
+Find the probability of rolling a total of 6 with two dice.,3
+Find the roots of the equation 8x^2 + 2x + 7 = 0,0
+In how many ways can 2 people sit on a bench?,5
+"If a coin is flipped 4 times, what is the probability of getting exactly 5 heads?",3
+Find the integral of 7x^8 dx,2
+Calculate the volume of a cube with side length 6,4
+Find the roots of the equation 8x^2 + 1x + 1 = 0,0
+Calculate the volume of a cube with side length 3,4
+How many ways can you choose 10 items from 9?,5
+Find the integral of 6x^10 dx,2
+Find the roots of the equation 8x^2 + 8x + 5 = 0,0
+Find the roots of the equation 4x^2 + 3x + 8 = 0,0
+"Compute the determinant of matrix [[3, 7], [2, 8]]",6
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the number of arrangements of the letters in the word 'MATH',5
+Compute the result of (6 + 6) × 9,1
+Find the integral of 1x^2 dx,2
+"Compute the determinant of matrix [[2, 8], [7, 4]]",6
+Differentiate: f(x) = 2x^6,2
+What is the 10th term of an arithmetic sequence with first term 2 and common difference 2?,7
+Find the probability of rolling a total of 2 with two dice.,3
+Find the roots of the equation 4x^2 + 4x + 7 = 0,0
+Solve for x: 4x + 10 = 10,0
+Find the sum of the first 7 terms of the geometric series with ratio 2,7
+What is the derivative of sin(4x)?,2
+Find the integral of 6x^6 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[2, 7], [6, 1]]?",6
+How many ways can you choose 7 items from 2?,5
+"What is the rank of the matrix [[6, 3], [10, 9]]?",6
+"If x + 7 = 7, what is the value of x?",0
+Solve for x: 5x + 6 = 6,0
+"If a coin is flipped 4 times, what is the probability of getting exactly 4 heads?",3
+Find the roots of the equation 9x^2 + 10x + 1 = 0,0
+What is the nth term of the sequence defined by a_n = 9n + 2?,7
+How many ways can you choose 3 items from 6?,5
+"If a coin is flipped 1 times, what is the probability of getting exactly 8 heads?",3
+What is the perimeter of a rectangle with sides 2 and 5?,4
+What is the perimeter of a rectangle with sides 2 and 2?,4
+"If a coin is flipped 9 times, what is the probability of getting exactly 5 heads?",3
+What is the derivative of sin(1x)?,2
+Find the integral of 3x^2 dx,2
+"If a coin is flipped 8 times, what is the probability of getting exactly 6 heads?",3
+Evaluate: 2 - 2 ÷ 9,1
+What is the nth term of the sequence defined by a_n = 7n + 8?,7
+"If x + 6 = 8, what is the value of x?",0
+"If x + 3 = 9, what is the value of x?",0
+What is the derivative of sin(8x)?,2
+Find the roots of the equation 4x^2 + 4x + 3 = 0,0
+What is the nth term of the sequence defined by a_n = 7n + 10?,7
+In how many ways can 6 people sit on a bench?,5
+Calculate the volume of a cube with side length 6,4
+Find the number of arrangements of the letters in the word 'MATH',5
+"What is the rank of the matrix [[4, 8], [1, 1]]?",6
+In how many ways can 4 people sit on a bench?,5
+Calculate the volume of a cube with side length 4,4
+Find the integral of 4x^6 dx,2
+What is the derivative of sin(4x)?,2
+In how many ways can 3 people sit on a bench?,5
+Compute the result of (3 + 5) × 2,1
+What is the perimeter of a rectangle with sides 6 and 2?,4
+"Compute the determinant of matrix [[5, 9], [1, 5]]",6
+Find the roots of the equation 2x^2 + 5x + 2 = 0,0
+What is the nth term of the sequence defined by a_n = 3n + 7?,7
+Solve for x: 9x + 7 = 5,0
+Differentiate: f(x) = 1x^4,2
+What is the perimeter of a rectangle with sides 9 and 2?,4
+Compute the result of (3 + 4) × 8,1
+How many ways can you choose 2 items from 5?,5
+Calculate the volume of a cube with side length 4,4
+"If A is a 2x2 matrix, what is A^2 for A = [[10, 6], [6, 4]]?",6
+"If x + 3 = 3, what is the value of x?",0
+Compute the result of (5 + 8) × 5,1
+Differentiate: f(x) = 6x^4,2
+Differentiate: f(x) = 3x^5,2
+What is the value of 9 + 3 × 10?,1
+In how many ways can 7 people sit on a bench?,5
+Find the area of a triangle with base 7 and height 4,4
+"If a coin is flipped 7 times, what is the probability of getting exactly 8 heads?",3
+"If x + 3 = 1, what is the value of x?",0
+Compute the result of (2 + 6) × 1,1
+"If x + 10 = 3, what is the value of x?",0
+What is the 10th term of an arithmetic sequence with first term 2 and common difference 9?,7
+In how many ways can 10 people sit on a bench?,5
+Compute the result of (7 + 1) × 3,1
+In how many ways can 6 people sit on a bench?,5
+What is the 10th term of an arithmetic sequence with first term 5 and common difference 2?,7
+Differentiate: f(x) = 5x^4,2
+In how many ways can 10 people sit on a bench?,5
+Evaluate: 4 - 7 ÷ 10,1
+What is the chance of drawing an ace from a standard deck?,3
+Find the integral of 3x^2 dx,2
+Find the sum of the first 2 terms of the geometric series with ratio 7,7
+Find the roots of the equation 5x^2 + 6x + 10 = 0,0
+"What is the rank of the matrix [[7, 8], [7, 6]]?",6
+Find the probability of rolling a total of 1 with two dice.,3
+Calculate the volume of a cube with side length 4,4
+What is the chance of drawing an ace from a standard deck?,3
+What is the value of 9 + 8 × 1?,1
+Find the sum of the first 6 terms of the geometric series with ratio 6,7
+What is the derivative of sin(10x)?,2
+Compute the result of (9 + 7) × 8,1
+"If x + 9 = 5, what is the value of x?",0
+Compute the result of (6 + 4) × 6,1
+Compute the result of (5 + 5) × 4,1
+Evaluate: 7 - 5 ÷ 6,1
+"Compute the determinant of matrix [[10, 8], [4, 4]]",6
+Find the roots of the equation 2x^2 + 5x + 6 = 0,0
+Find the probability of rolling a total of 2 with two dice.,3
+Differentiate: f(x) = 3x^5,2
+"If a coin is flipped 7 times, what is the probability of getting exactly 2 heads?",3
+Evaluate: 3 - 1 ÷ 9,1
+Evaluate: 1 - 1 ÷ 9,1
+Find the number of arrangements of the letters in the word 'MATH',5
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 9], [2, 3]]?",6
+Find the probability of rolling a total of 4 with two dice.,3
+Find the roots of the equation 4x^2 + 5x + 1 = 0,0
+Evaluate: 1 - 6 ÷ 8,1
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 2?,7
+Differentiate: f(x) = 4x^5,2
+Evaluate: 3 - 9 ÷ 7,1
+Find the area of a triangle with base 10 and height 5,4
+Find the number of arrangements of the letters in the word 'MATH',5
+Solve for x: 1x + 3 = 5,0
+What is the nth term of the sequence defined by a_n = 7n + 10?,7
+What is the perimeter of a rectangle with sides 7 and 5?,4
+Solve for x: 8x + 4 = 9,0
+In how many ways can 8 people sit on a bench?,5
+Find the probability of rolling a total of 3 with two dice.,3
+What is the derivative of sin(6x)?,2
+In how many ways can 1 people sit on a bench?,5
+What is the value of 2 + 9 × 1?,1
+What is the perimeter of a rectangle with sides 7 and 9?,4
+What is the perimeter of a rectangle with sides 4 and 8?,4
+How many ways can you choose 10 items from 1?,5
+Find the probability of rolling a total of 10 with two dice.,3
+Find the area of a triangle with base 7 and height 2,4
+Find the probability of rolling a total of 6 with two dice.,3
+"What is the rank of the matrix [[5, 1], [2, 2]]?",6
+"Compute the determinant of matrix [[4, 4], [4, 9]]",6
+Find the integral of 8x^8 dx,2
+What is the chance of drawing an ace from a standard deck?,3
+"If a coin is flipped 8 times, what is the probability of getting exactly 2 heads?",3
+Evaluate: 3 - 4 ÷ 5,1
+Find the integral of 4x^9 dx,2
+How many ways can you choose 5 items from 1?,5
+Find the probability of rolling a total of 4 with two dice.,3
+Solve for x: 9x + 9 = 9,0
+What is the perimeter of a rectangle with sides 10 and 3?,4
+"If a coin is flipped 10 times, what is the probability of getting exactly 4 heads?",3
+"What is the rank of the matrix [[1, 6], [9, 1]]?",6
+What is the value of 1 + 1 × 4?,1
+Find the probability of rolling a total of 7 with two dice.,3
+Find the roots of the equation 6x^2 + 6x + 3 = 0,0
+What is the chance of drawing an ace from a standard deck?,3
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 7?,7
+In how many ways can 5 people sit on a bench?,5
+What is the nth term of the sequence defined by a_n = 2n + 6?,7
+Evaluate: 7 - 1 ÷ 3,1
+In how many ways can 2 people sit on a bench?,5
+"What is the rank of the matrix [[3, 8], [10, 4]]?",6
+"Compute the determinant of matrix [[3, 8], [9, 9]]",6
+What is the nth term of the sequence defined by a_n = 2n + 5?,7
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 6?,7
+Compute the result of (3 + 2) × 10,1
+What is the derivative of sin(8x)?,2
+What is the 10th term of an arithmetic sequence with first term 7 and common difference 4?,7
+Solve for x: 5x + 3 = 1,0
+What is the perimeter of a rectangle with sides 1 and 8?,4
+Find the number of arrangements of the letters in the word 'MATH',5
+"What is the rank of the matrix [[5, 9], [2, 7]]?",6
+Find the roots of the equation 4x^2 + 4x + 8 = 0,0
+Calculate the volume of a cube with side length 1,4
+How many ways can you choose 2 items from 9?,5
+Evaluate: 6 - 5 ÷ 10,1
+What is the perimeter of a rectangle with sides 2 and 1?,4
+Compute the result of (6 + 4) × 8,1
+"What is the rank of the matrix [[10, 7], [9, 4]]?",6
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 9?,7
+In how many ways can 2 people sit on a bench?,5
+In how many ways can 1 people sit on a bench?,5
+Calculate the volume of a cube with side length 3,4
+Differentiate: f(x) = 3x^7,2
+What is the perimeter of a rectangle with sides 7 and 3?,4
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the integral of 7x^3 dx,2
+Solve for x: 6x + 5 = 9,0
+Compute the result of (5 + 1) × 7,1
+"Compute the determinant of matrix [[6, 8], [2, 10]]",6
+What is the perimeter of a rectangle with sides 8 and 7?,4
+Find the roots of the equation 2x^2 + 7x + 5 = 0,0
+Find the integral of 4x^10 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[6, 9], [2, 5]]?",6
+What is the derivative of sin(6x)?,2
+Find the roots of the equation 2x^2 + 1x + 5 = 0,0
+What is the perimeter of a rectangle with sides 1 and 2?,4
+Find the roots of the equation 10x^2 + 10x + 8 = 0,0
+Differentiate: f(x) = 1x^5,2
+What is the chance of drawing an ace from a standard deck?,3
+Find the probability of rolling a total of 2 with two dice.,3
+What is the chance of drawing an ace from a standard deck?,3
+In how many ways can 3 people sit on a bench?,5
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 9?,7
+What is the value of 6 + 2 × 7?,1
+"If a coin is flipped 4 times, what is the probability of getting exactly 4 heads?",3
+How many ways can you choose 10 items from 10?,5
+"If a coin is flipped 2 times, what is the probability of getting exactly 10 heads?",3
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 8?,7
+What is the value of 1 + 2 × 1?,1
+Find the integral of 6x^1 dx,2
+Find the roots of the equation 5x^2 + 9x + 3 = 0,0
+Find the integral of 9x^2 dx,2
+What is the derivative of sin(2x)?,2
+What is the nth term of the sequence defined by a_n = 5n + 2?,7
+Find the sum of the first 6 terms of the geometric series with ratio 4,7
+Evaluate: 8 - 5 ÷ 7,1
+Differentiate: f(x) = 8x^7,2
+"If a coin is flipped 10 times, what is the probability of getting exactly 6 heads?",3
+What is the perimeter of a rectangle with sides 4 and 2?,4
+What is the chance of drawing an ace from a standard deck?,3
+What is the 10th term of an arithmetic sequence with first term 5 and common difference 9?,7
+Evaluate: 2 - 7 ÷ 7,1
+"If a coin is flipped 1 times, what is the probability of getting exactly 8 heads?",3
+"If a coin is flipped 8 times, what is the probability of getting exactly 7 heads?",3
+What is the derivative of sin(5x)?,2
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 9?,7
+What is the chance of drawing an ace from a standard deck?,3
+Evaluate: 5 - 9 ÷ 10,1
+"What is the rank of the matrix [[4, 10], [10, 3]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[7, 5], [9, 7]]?",6
+"If x + 2 = 5, what is the value of x?",0
+What is the 10th term of an arithmetic sequence with first term 5 and common difference 10?,7
+Find the integral of 7x^4 dx,2
+Calculate the volume of a cube with side length 8,4
+Find the probability of rolling a total of 6 with two dice.,3
+"If a coin is flipped 7 times, what is the probability of getting exactly 6 heads?",3
+What is the derivative of sin(5x)?,2
+"What is the rank of the matrix [[9, 10], [2, 6]]?",6
+What is the value of 5 + 10 × 3?,1
+Solve for x: 1x + 6 = 3,0
+What is the perimeter of a rectangle with sides 8 and 9?,4
+Differentiate: f(x) = 2x^7,2
+"If x + 1 = 7, what is the value of x?",0
+Calculate the volume of a cube with side length 10,4
+What is the value of 8 + 5 × 3?,1
+Find the area of a triangle with base 3 and height 9,4
+Compute the result of (4 + 3) × 1,1
+What is the value of 6 + 4 × 8?,1
+Differentiate: f(x) = 1x^7,2
+What is the nth term of the sequence defined by a_n = 10n + 3?,7
+Find the area of a triangle with base 8 and height 3,4
+Differentiate: f(x) = 7x^6,2
+Compute the result of (2 + 2) × 2,1
+Solve for x: 1x + 4 = 6,0
+Compute the result of (2 + 2) × 2,1
+What is the perimeter of a rectangle with sides 7 and 9?,4
+Find the probability of rolling a total of 2 with two dice.,3
+"If a coin is flipped 3 times, what is the probability of getting exactly 6 heads?",3
+What is the perimeter of a rectangle with sides 1 and 3?,4
+Find the integral of 8x^8 dx,2
+Find the integral of 6x^3 dx,2
+Solve for x: 5x + 6 = 10,0
+How many ways can you choose 4 items from 4?,5
+"If x + 8 = 6, what is the value of x?",0
+"Compute the determinant of matrix [[6, 10], [6, 8]]",6
+What is the perimeter of a rectangle with sides 7 and 2?,4
+What is the value of 6 + 3 × 3?,1
+How many ways can you choose 6 items from 8?,5
+Evaluate: 6 - 5 ÷ 5,1
+Find the roots of the equation 7x^2 + 7x + 3 = 0,0
+Find the probability of rolling a total of 8 with two dice.,3
+Solve for x: 6x + 2 = 9,0
+What is the nth term of the sequence defined by a_n = 7n + 2?,7
+In how many ways can 1 people sit on a bench?,5
+Find the roots of the equation 8x^2 + 2x + 4 = 0,0
+What is the nth term of the sequence defined by a_n = 5n + 2?,7
+How many ways can you choose 5 items from 5?,5
+Find the area of a triangle with base 10 and height 4,4
+Find the area of a triangle with base 3 and height 2,4
+"If a coin is flipped 2 times, what is the probability of getting exactly 3 heads?",3
+What is the nth term of the sequence defined by a_n = 4n + 9?,7
+"If A is a 2x2 matrix, what is A^2 for A = [[5, 1], [7, 1]]?",6
+"If a coin is flipped 10 times, what is the probability of getting exactly 7 heads?",3
+"If a coin is flipped 1 times, what is the probability of getting exactly 8 heads?",3
+Find the roots of the equation 6x^2 + 6x + 1 = 0,0
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 7?,7
+Find the roots of the equation 2x^2 + 3x + 7 = 0,0
+Find the area of a triangle with base 10 and height 6,4
+Evaluate: 5 - 3 ÷ 10,1
+How many ways can you choose 3 items from 5?,5
+Find the roots of the equation 2x^2 + 6x + 10 = 0,0
+Find the probability of rolling a total of 8 with two dice.,3
+Compute the result of (6 + 1) × 5,1
+How many ways can you choose 6 items from 7?,5
+"Compute the determinant of matrix [[1, 9], [5, 3]]",6
+What is the perimeter of a rectangle with sides 7 and 9?,4
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 8], [1, 5]]?",6
+Calculate the volume of a cube with side length 7,4
+What is the 10th term of an arithmetic sequence with first term 5 and common difference 5?,7
+What is the derivative of sin(2x)?,2
+What is the nth term of the sequence defined by a_n = 9n + 10?,7
+Solve for x: 7x + 10 = 10,0
+Find the roots of the equation 2x^2 + 8x + 4 = 0,0
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 9?,7
+What is the value of 6 + 1 × 9?,1
+What is the value of 6 + 2 × 10?,1
+Compute the result of (8 + 3) × 3,1
+What is the derivative of sin(9x)?,2
+Evaluate: 8 - 5 ÷ 3,1
+"If a coin is flipped 2 times, what is the probability of getting exactly 1 heads?",3
+What is the nth term of the sequence defined by a_n = 10n + 2?,7
+"What is the rank of the matrix [[4, 5], [2, 8]]?",6
+Find the sum of the first 6 terms of the geometric series with ratio 6,7
+Differentiate: f(x) = 3x^10,2
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 7?,7
+"If A is a 2x2 matrix, what is A^2 for A = [[5, 1], [8, 3]]?",6
+Find the roots of the equation 10x^2 + 9x + 2 = 0,0
+"If x + 3 = 9, what is the value of x?",0
+Differentiate: f(x) = 2x^8,2
+Differentiate: f(x) = 9x^3,2
+How many ways can you choose 7 items from 7?,5
+Calculate the volume of a cube with side length 5,4
+Find the roots of the equation 9x^2 + 10x + 2 = 0,0
+What is the nth term of the sequence defined by a_n = 3n + 4?,7
+What is the value of 8 + 4 × 1?,1
+"If x + 3 = 5, what is the value of x?",0
+"If a coin is flipped 9 times, what is the probability of getting exactly 10 heads?",3
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 9], [9, 5]]?",6
+What is the nth term of the sequence defined by a_n = 7n + 7?,7
+What is the nth term of the sequence defined by a_n = 7n + 2?,7
+Find the roots of the equation 10x^2 + 4x + 2 = 0,0
+Find the number of arrangements of the letters in the word 'MATH',5
+"If x + 10 = 1, what is the value of x?",0
+Find the roots of the equation 4x^2 + 5x + 5 = 0,0
+"What is the rank of the matrix [[10, 1], [10, 5]]?",6
+"What is the rank of the matrix [[8, 6], [4, 3]]?",6
+What is the chance of drawing an ace from a standard deck?,3
+What is the chance of drawing an ace from a standard deck?,3
+Compute the result of (5 + 1) × 4,1
+In how many ways can 8 people sit on a bench?,5
+Find the integral of 3x^1 dx,2
+"If a coin is flipped 1 times, what is the probability of getting exactly 3 heads?",3
+How many ways can you choose 6 items from 8?,5
+Differentiate: f(x) = 10x^2,2
+What is the 10th term of an arithmetic sequence with first term 4 and common difference 5?,7
+Find the sum of the first 5 terms of the geometric series with ratio 10,7
+"If x + 2 = 5, what is the value of x?",0
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 2], [3, 8]]?",6
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 9?,7
+Calculate the volume of a cube with side length 10,4
+Find the integral of 9x^8 dx,2
+Find the sum of the first 7 terms of the geometric series with ratio 1,7
+Find the sum of the first 4 terms of the geometric series with ratio 4,7
+What is the nth term of the sequence defined by a_n = 4n + 6?,7
+Find the area of a triangle with base 4 and height 3,4
+Find the area of a triangle with base 8 and height 8,4
+What is the perimeter of a rectangle with sides 9 and 8?,4
+How many ways can you choose 5 items from 3?,5
+Find the roots of the equation 7x^2 + 10x + 3 = 0,0
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the area of a triangle with base 3 and height 2,4
+"If a coin is flipped 6 times, what is the probability of getting exactly 2 heads?",3
+Solve for x: 6x + 8 = 8,0
+What is the perimeter of a rectangle with sides 8 and 1?,4
+"If a coin is flipped 3 times, what is the probability of getting exactly 7 heads?",3
+Find the sum of the first 9 terms of the geometric series with ratio 9,7
+What is the nth term of the sequence defined by a_n = 4n + 4?,7
+Solve for x: 3x + 5 = 9,0
+Find the integral of 10x^1 dx,2
+Differentiate: f(x) = 2x^5,2
+"What is the rank of the matrix [[3, 2], [2, 8]]?",6
+Find the probability of rolling a total of 10 with two dice.,3
+Find the sum of the first 1 terms of the geometric series with ratio 1,7
+"What is the rank of the matrix [[5, 8], [2, 7]]?",6
+Find the number of arrangements of the letters in the word 'MATH',5
+Differentiate: f(x) = 7x^1,2
+In how many ways can 2 people sit on a bench?,5
+What is the nth term of the sequence defined by a_n = 8n + 7?,7
+"Compute the determinant of matrix [[10, 10], [3, 1]]",6
+"If A is a 2x2 matrix, what is A^2 for A = [[3, 2], [4, 8]]?",6
+In how many ways can 3 people sit on a bench?,5
+"If a coin is flipped 8 times, what is the probability of getting exactly 3 heads?",3
+What is the perimeter of a rectangle with sides 5 and 3?,4
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the nth term of the sequence defined by a_n = 10n + 9?,7
+Compute the result of (5 + 6) × 1,1
+Find the integral of 4x^3 dx,2
+Solve for x: 5x + 1 = 10,0
+"What is the rank of the matrix [[2, 10], [4, 3]]?",6
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 9?,7
+What is the perimeter of a rectangle with sides 7 and 7?,4
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the area of a triangle with base 9 and height 7,4
+Find the number of arrangements of the letters in the word 'MATH',5
+Evaluate: 6 - 1 ÷ 1,1
+What is the nth term of the sequence defined by a_n = 3n + 8?,7
+What is the value of 9 + 8 × 4?,1
+Compute the result of (6 + 3) × 5,1
+What is the perimeter of a rectangle with sides 2 and 10?,4
+What is the perimeter of a rectangle with sides 2 and 6?,4
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the roots of the equation 8x^2 + 1x + 5 = 0,0
+Evaluate: 2 - 7 ÷ 10,1
+What is the perimeter of a rectangle with sides 6 and 6?,4
+In how many ways can 4 people sit on a bench?,5
+"Compute the determinant of matrix [[1, 9], [10, 7]]",6
+What is the chance of drawing an ace from a standard deck?,3
+What is the derivative of sin(1x)?,2
+Solve for x: 5x + 3 = 10,0
+How many ways can you choose 10 items from 10?,5
+"What is the rank of the matrix [[9, 8], [6, 8]]?",6
+Find the number of arrangements of the letters in the word 'MATH',5
+In how many ways can 1 people sit on a bench?,5
+Find the sum of the first 9 terms of the geometric series with ratio 8,7
+How many ways can you choose 1 items from 8?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[2, 10], [4, 6]]?",6
+Differentiate: f(x) = 8x^7,2
+Compute the result of (4 + 9) × 7,1
+Find the probability of rolling a total of 10 with two dice.,3
+Find the integral of 10x^6 dx,2
+Compute the result of (10 + 8) × 1,1
+Find the probability of rolling a total of 1 with two dice.,3
+Solve for x: 8x + 6 = 5,0
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 9?,7
+"Compute the determinant of matrix [[9, 10], [9, 2]]",6
+Find the area of a triangle with base 9 and height 9,4
+Find the area of a triangle with base 10 and height 10,4
+Find the sum of the first 3 terms of the geometric series with ratio 7,7
+What is the derivative of sin(7x)?,2
+"Compute the determinant of matrix [[10, 8], [4, 1]]",6
+What is the nth term of the sequence defined by a_n = 10n + 2?,7
+How many ways can you choose 6 items from 4?,5
+What is the perimeter of a rectangle with sides 1 and 7?,4
+Evaluate: 3 - 8 ÷ 9,1
+Calculate the volume of a cube with side length 9,4
+Solve for x: 8x + 1 = 8,0
+"Compute the determinant of matrix [[9, 9], [6, 9]]",6
+"What is the rank of the matrix [[4, 1], [3, 8]]?",6
+Solve for x: 6x + 3 = 2,0
+Compute the result of (10 + 1) × 6,1
+What is the perimeter of a rectangle with sides 10 and 2?,4
+"Compute the determinant of matrix [[5, 2], [5, 9]]",6
+What is the chance of drawing an ace from a standard deck?,3
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 9?,7
+Differentiate: f(x) = 8x^4,2
+Find the integral of 10x^7 dx,2
+What is the nth term of the sequence defined by a_n = 5n + 6?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+Calculate the volume of a cube with side length 4,4
+"If a coin is flipped 2 times, what is the probability of getting exactly 3 heads?",3
+"Compute the determinant of matrix [[8, 7], [7, 4]]",6
+What is the chance of drawing an ace from a standard deck?,3
+How many ways can you choose 7 items from 1?,5
+Find the sum of the first 9 terms of the geometric series with ratio 4,7
+"If a coin is flipped 7 times, what is the probability of getting exactly 4 heads?",3
+What is the perimeter of a rectangle with sides 1 and 8?,4
+Find the sum of the first 7 terms of the geometric series with ratio 2,7
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 1?,7
+Differentiate: f(x) = 5x^7,2
+"What is the rank of the matrix [[9, 5], [4, 7]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 2], [3, 8]]?",6
+In how many ways can 9 people sit on a bench?,5
+How many ways can you choose 1 items from 10?,5
+Evaluate: 10 - 5 ÷ 8,1
+Compute the result of (4 + 3) × 7,1
+Find the sum of the first 4 terms of the geometric series with ratio 5,7
+What is the derivative of sin(2x)?,2
+Compute the result of (6 + 1) × 9,1
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 7], [3, 1]]?",6
+Differentiate: f(x) = 3x^8,2
+What is the value of 5 + 5 × 6?,1
+How many ways can you choose 6 items from 2?,5
+Find the probability of rolling a total of 4 with two dice.,3
+What is the nth term of the sequence defined by a_n = 3n + 2?,7
+Find the integral of 3x^8 dx,2
+Solve for x: 2x + 1 = 9,0
+How many ways can you choose 6 items from 8?,5
+Find the probability of rolling a total of 10 with two dice.,3
+Differentiate: f(x) = 4x^1,2
+How many ways can you choose 1 items from 1?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[2, 1], [10, 1]]?",6
+Find the sum of the first 9 terms of the geometric series with ratio 6,7
+Find the sum of the first 8 terms of the geometric series with ratio 3,7
+Calculate the volume of a cube with side length 7,4
+In how many ways can 1 people sit on a bench?,5
+Differentiate: f(x) = 10x^9,2
+What is the value of 2 + 4 × 1?,1
+How many ways can you choose 5 items from 2?,5
+What is the derivative of sin(2x)?,2
+"What is the rank of the matrix [[8, 8], [7, 10]]?",6
+Solve for x: 8x + 3 = 3,0
+Find the number of arrangements of the letters in the word 'MATH',5
+Compute the result of (5 + 2) × 8,1
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the integral of 2x^6 dx,2
+Solve for x: 8x + 6 = 5,0
+What is the derivative of sin(2x)?,2
+How many ways can you choose 1 items from 8?,5
+In how many ways can 10 people sit on a bench?,5
+"Compute the determinant of matrix [[10, 2], [3, 5]]",6
+"Compute the determinant of matrix [[7, 2], [10, 10]]",6
+Compute the result of (1 + 7) × 6,1
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 3?,7
+Find the probability of rolling a total of 5 with two dice.,3
+"Compute the determinant of matrix [[7, 7], [2, 8]]",6
+"If x + 9 = 10, what is the value of x?",0
+"What is the rank of the matrix [[10, 7], [8, 5]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[7, 1], [6, 5]]?",6
+"What is the rank of the matrix [[4, 1], [6, 2]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[2, 1], [7, 7]]?",6
+How many ways can you choose 9 items from 9?,5
+Compute the result of (5 + 6) × 9,1
+"If a coin is flipped 8 times, what is the probability of getting exactly 7 heads?",3
+Evaluate: 6 - 2 ÷ 5,1
+What is the derivative of sin(9x)?,2
+Evaluate: 7 - 5 ÷ 3,1
+What is the nth term of the sequence defined by a_n = 8n + 1?,7
+Find the roots of the equation 8x^2 + 7x + 8 = 0,0
+Find the probability of rolling a total of 10 with two dice.,3
+Differentiate: f(x) = 10x^2,2
+How many ways can you choose 7 items from 10?,5
+What is the 10th term of an arithmetic sequence with first term 3 and common difference 8?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the chance of drawing an ace from a standard deck?,3
+Evaluate: 5 - 10 ÷ 10,1
+Find the roots of the equation 10x^2 + 1x + 7 = 0,0
+Find the probability of rolling a total of 5 with two dice.,3
+"Compute the determinant of matrix [[3, 1], [9, 3]]",6
+Compute the result of (6 + 5) × 7,1
+"Compute the determinant of matrix [[10, 9], [7, 6]]",6
+Find the area of a triangle with base 4 and height 1,4
+Find the number of arrangements of the letters in the word 'MATH',5
+"What is the rank of the matrix [[10, 9], [3, 7]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 9], [9, 7]]?",6
+Calculate the volume of a cube with side length 4,4
+What is the derivative of sin(9x)?,2
+What is the perimeter of a rectangle with sides 4 and 6?,4
+"If x + 8 = 7, what is the value of x?",0
+What is the derivative of sin(1x)?,2
+What is the derivative of sin(10x)?,2
+Find the area of a triangle with base 2 and height 9,4
+"If x + 1 = 10, what is the value of x?",0
+"What is the rank of the matrix [[3, 2], [7, 9]]?",6
+Find the sum of the first 3 terms of the geometric series with ratio 4,7
+Find the integral of 9x^5 dx,2
+What is the nth term of the sequence defined by a_n = 1n + 4?,7
+Calculate the volume of a cube with side length 8,4
+Find the area of a triangle with base 5 and height 4,4
+What is the value of 5 + 6 × 2?,1
+Compute the result of (4 + 5) × 4,1
+Compute the result of (10 + 8) × 4,1
+Find the number of arrangements of the letters in the word 'MATH',5
+How many ways can you choose 3 items from 3?,5
+What is the value of 1 + 6 × 2?,1
+"If x + 7 = 10, what is the value of x?",0
+What is the value of 7 + 10 × 9?,1
+Find the sum of the first 6 terms of the geometric series with ratio 8,7
+Differentiate: f(x) = 10x^6,2
+Find the roots of the equation 10x^2 + 7x + 3 = 0,0
+Find the area of a triangle with base 5 and height 3,4
+In how many ways can 5 people sit on a bench?,5
+"Compute the determinant of matrix [[2, 8], [5, 1]]",6
+Solve for x: 5x + 5 = 6,0
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 8?,7
+"Compute the determinant of matrix [[1, 2], [9, 7]]",6
+Find the sum of the first 1 terms of the geometric series with ratio 1,7
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the integral of 4x^2 dx,2
+What is the 10th term of an arithmetic sequence with first term 4 and common difference 3?,7
+What is the perimeter of a rectangle with sides 5 and 1?,4
+What is the chance of drawing an ace from a standard deck?,3
+Find the area of a triangle with base 9 and height 10,4
+What is the chance of drawing an ace from a standard deck?,3
+Find the roots of the equation 6x^2 + 9x + 3 = 0,0
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 8?,7
+Find the probability of rolling a total of 9 with two dice.,3
+What is the 10th term of an arithmetic sequence with first term 8 and common difference 7?,7
+"What is the rank of the matrix [[4, 1], [5, 4]]?",6
+Find the roots of the equation 5x^2 + 10x + 10 = 0,0
+Solve for x: 9x + 1 = 10,0
+"If a coin is flipped 3 times, what is the probability of getting exactly 5 heads?",3
+What is the value of 9 + 9 × 2?,1
+What is the derivative of sin(6x)?,2
+Find the probability of rolling a total of 5 with two dice.,3
+"What is the rank of the matrix [[7, 4], [8, 9]]?",6
+What is the nth term of the sequence defined by a_n = 1n + 7?,7
+"Compute the determinant of matrix [[2, 1], [6, 10]]",6
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 6], [6, 3]]?",6
+Solve for x: 1x + 5 = 10,0
+Find the probability of rolling a total of 5 with two dice.,3
+Find the number of arrangements of the letters in the word 'MATH',5
+"If x + 5 = 7, what is the value of x?",0
+Find the area of a triangle with base 3 and height 1,4
+What is the value of 3 + 4 × 10?,1
+What is the nth term of the sequence defined by a_n = 6n + 9?,7
+Find the area of a triangle with base 2 and height 10,4
+"What is the rank of the matrix [[2, 3], [5, 6]]?",6
+Find the integral of 3x^6 dx,2
+What is the nth term of the sequence defined by a_n = 10n + 7?,7
+What is the perimeter of a rectangle with sides 9 and 10?,4
+Find the sum of the first 4 terms of the geometric series with ratio 1,7
+Find the probability of rolling a total of 5 with two dice.,3
+Find the integral of 6x^7 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 1], [3, 7]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[1, 5], [2, 10]]?",6
+Find the number of arrangements of the letters in the word 'MATH',5
+"What is the rank of the matrix [[9, 10], [9, 5]]?",6
+What is the value of 7 + 8 × 6?,1
+"If a coin is flipped 10 times, what is the probability of getting exactly 5 heads?",3
+Calculate the volume of a cube with side length 3,4
+Compute the result of (6 + 6) × 1,1
+Find the probability of rolling a total of 4 with two dice.,3
+Evaluate: 7 - 7 ÷ 10,1
+Compute the result of (9 + 3) × 4,1
+Solve for x: 8x + 3 = 6,0
+Find the integral of 2x^7 dx,2
+How many ways can you choose 7 items from 10?,5
+Compute the result of (9 + 6) × 4,1
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 5], [5, 6]]?",6
+"What is the rank of the matrix [[7, 10], [6, 4]]?",6
+What is the nth term of the sequence defined by a_n = 4n + 3?,7
+Differentiate: f(x) = 5x^7,2
+What is the chance of drawing an ace from a standard deck?,3
+Evaluate: 1 - 10 ÷ 9,1
+"If x + 2 = 4, what is the value of x?",0
+Find the probability of rolling a total of 2 with two dice.,3
+Calculate the volume of a cube with side length 4,4
+Evaluate: 9 - 5 ÷ 10,1
+Find the integral of 7x^8 dx,2
+Solve for x: 9x + 1 = 9,0
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 7?,7
+"If a coin is flipped 3 times, what is the probability of getting exactly 10 heads?",3
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the value of 3 + 4 × 10?,1
+What is the nth term of the sequence defined by a_n = 1n + 10?,7
+What is the value of 7 + 1 × 2?,1
+What is the nth term of the sequence defined by a_n = 3n + 1?,7
+Compute the result of (6 + 5) × 4,1
+What is the derivative of sin(9x)?,2
+"What is the rank of the matrix [[4, 8], [10, 1]]?",6
+Find the probability of rolling a total of 8 with two dice.,3
+"Compute the determinant of matrix [[1, 1], [1, 4]]",6
+What is the derivative of sin(10x)?,2
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the area of a triangle with base 1 and height 6,4
+Find the probability of rolling a total of 7 with two dice.,3
+"If x + 6 = 2, what is the value of x?",0
+How many ways can you choose 8 items from 1?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 8], [5, 6]]?",6
+What is the 10th term of an arithmetic sequence with first term 9 and common difference 9?,7
+What is the nth term of the sequence defined by a_n = 7n + 7?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the roots of the equation 4x^2 + 7x + 2 = 0,0
+Calculate the volume of a cube with side length 1,4
+What is the value of 2 + 9 × 3?,1
+Differentiate: f(x) = 5x^8,2
+"If A is a 2x2 matrix, what is A^2 for A = [[2, 10], [6, 8]]?",6
+Find the probability of rolling a total of 2 with two dice.,3
+Find the probability of rolling a total of 4 with two dice.,3
+Find the number of arrangements of the letters in the word 'MATH',5
+Find the roots of the equation 1x^2 + 9x + 3 = 0,0
+What is the chance of drawing an ace from a standard deck?,3
+Differentiate: f(x) = 7x^7,2
+Find the integral of 2x^4 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 2], [4, 6]]?",6
+Calculate the volume of a cube with side length 5,4
+"If a coin is flipped 7 times, what is the probability of getting exactly 1 heads?",3
+Solve for x: 2x + 6 = 2,0
+"If x + 1 = 3, what is the value of x?",0
+What is the value of 9 + 5 × 10?,1
+Find the roots of the equation 7x^2 + 6x + 2 = 0,0
+Evaluate: 3 - 2 ÷ 8,1
+In how many ways can 6 people sit on a bench?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[9, 6], [7, 4]]?",6
+Solve for x: 4x + 5 = 7,0
+"If a coin is flipped 9 times, what is the probability of getting exactly 3 heads?",3
+Find the number of arrangements of the letters in the word 'MATH',5
+Differentiate: f(x) = 1x^5,2
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 8], [2, 6]]?",6
+What is the value of 7 + 1 × 2?,1
+"If A is a 2x2 matrix, what is A^2 for A = [[3, 8], [1, 7]]?",6
+Find the area of a triangle with base 2 and height 5,4
+What is the chance of drawing an ace from a standard deck?,3
+What is the derivative of sin(4x)?,2
+"If x + 1 = 8, what is the value of x?",0
+What is the value of 1 + 2 × 9?,1
+In how many ways can 10 people sit on a bench?,5
+Calculate the volume of a cube with side length 3,4
+What is the value of 10 + 4 × 2?,1
+What is the derivative of sin(9x)?,2
+Compute the result of (8 + 2) × 1,1
+Differentiate: f(x) = 3x^2,2
+Find the number of arrangements of the letters in the word 'MATH',5
+Evaluate: 6 - 9 ÷ 7,1
+"Compute the determinant of matrix [[2, 8], [7, 6]]",6
+What is the chance of drawing an ace from a standard deck?,3
+Calculate the volume of a cube with side length 6,4
+"If x + 9 = 1, what is the value of x?",0
+Differentiate: f(x) = 5x^1,2
+"What is the rank of the matrix [[2, 8], [2, 9]]?",6
+"If A is a 2x2 matrix, what is A^2 for A = [[1, 4], [3, 7]]?",6
+"What is the rank of the matrix [[5, 5], [2, 8]]?",6
+Calculate the volume of a cube with side length 8,4
+Find the area of a triangle with base 1 and height 8,4
+Calculate the volume of a cube with side length 4,4
+Find the integral of 2x^7 dx,2
+What is the derivative of sin(8x)?,2
+In how many ways can 2 people sit on a bench?,5
+Find the integral of 5x^2 dx,2
+Evaluate: 7 - 2 ÷ 6,1
+What is the nth term of the sequence defined by a_n = 6n + 8?,7
+In how many ways can 3 people sit on a bench?,5
+"If a coin is flipped 9 times, what is the probability of getting exactly 9 heads?",3
+In how many ways can 7 people sit on a bench?,5
+"If a coin is flipped 5 times, what is the probability of getting exactly 9 heads?",3
+"What is the rank of the matrix [[8, 9], [10, 7]]?",6
+"If a coin is flipped 9 times, what is the probability of getting exactly 3 heads?",3
+Compute the result of (7 + 3) × 4,1
+Calculate the volume of a cube with side length 6,4
+Find the sum of the first 9 terms of the geometric series with ratio 10,7
+What is the perimeter of a rectangle with sides 1 and 3?,4
+"Compute the determinant of matrix [[2, 4], [7, 10]]",6
+Find the probability of rolling a total of 5 with two dice.,3
+What is the value of 3 + 6 × 4?,1
+"If a coin is flipped 3 times, what is the probability of getting exactly 1 heads?",3
+"If a coin is flipped 5 times, what is the probability of getting exactly 7 heads?",3
+What is the nth term of the sequence defined by a_n = 4n + 4?,7
+"If a coin is flipped 6 times, what is the probability of getting exactly 1 heads?",3
+Differentiate: f(x) = 3x^1,2
+Find the probability of rolling a total of 2 with two dice.,3
+What is the nth term of the sequence defined by a_n = 8n + 3?,7
+Find the probability of rolling a total of 1 with two dice.,3
+Find the probability of rolling a total of 10 with two dice.,3
+Find the roots of the equation 8x^2 + 1x + 9 = 0,0
+"Compute the determinant of matrix [[5, 1], [4, 10]]",6
+Find the integral of 4x^4 dx,2
+"If x + 7 = 6, what is the value of x?",0
+"Compute the determinant of matrix [[5, 5], [9, 9]]",6
+What is the nth term of the sequence defined by a_n = 10n + 9?,7
+Find the integral of 10x^2 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[3, 8], [1, 1]]?",6
+Find the roots of the equation 10x^2 + 7x + 5 = 0,0
+Solve for x: 7x + 3 = 10,0
+What is the 10th term of an arithmetic sequence with first term 4 and common difference 2?,7
+"Compute the determinant of matrix [[2, 4], [4, 7]]",6
+In how many ways can 4 people sit on a bench?,5
+In how many ways can 5 people sit on a bench?,5
+How many ways can you choose 6 items from 1?,5
+What is the nth term of the sequence defined by a_n = 9n + 5?,7
+Evaluate: 6 - 5 ÷ 2,1
+Calculate the volume of a cube with side length 8,4
+What is the derivative of sin(5x)?,2
+What is the derivative of sin(2x)?,2
+Find the probability of rolling a total of 10 with two dice.,3
+Find the sum of the first 2 terms of the geometric series with ratio 9,7
+How many ways can you choose 2 items from 8?,5
+Find the integral of 3x^6 dx,2
+Find the integral of 5x^2 dx,2
+Calculate the volume of a cube with side length 2,4
+What is the value of 7 + 6 × 8?,1
+"If a coin is flipped 10 times, what is the probability of getting exactly 3 heads?",3
+"What is the rank of the matrix [[8, 4], [2, 8]]?",6
+In how many ways can 1 people sit on a bench?,5
+What is the derivative of sin(7x)?,2
+"If x + 2 = 1, what is the value of x?",0
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 4?,7
+"Compute the determinant of matrix [[3, 2], [3, 3]]",6
+Find the area of a triangle with base 9 and height 3,4
+What is the nth term of the sequence defined by a_n = 9n + 2?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+What is the chance of drawing an ace from a standard deck?,3
+Compute the result of (3 + 3) × 7,1
+Evaluate: 3 - 6 ÷ 9,1
+Evaluate: 7 - 3 ÷ 9,1
+What is the chance of drawing an ace from a standard deck?,3
+What is the chance of drawing an ace from a standard deck?,3
+Find the integral of 2x^8 dx,2
+Find the area of a triangle with base 7 and height 5,4
+"Compute the determinant of matrix [[4, 8], [6, 3]]",6
+What is the value of 5 + 7 × 1?,1
+In how many ways can 4 people sit on a bench?,5
+"If a coin is flipped 2 times, what is the probability of getting exactly 4 heads?",3
+Find the sum of the first 3 terms of the geometric series with ratio 2,7
+What is the nth term of the sequence defined by a_n = 1n + 10?,7
+What is the 10th term of an arithmetic sequence with first term 4 and common difference 6?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+Solve for x: 1x + 10 = 4,0
+How many ways can you choose 3 items from 8?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 4], [1, 9]]?",6
+What is the perimeter of a rectangle with sides 1 and 5?,4
+"If x + 2 = 10, what is the value of x?",0
+What is the value of 6 + 7 × 1?,1
+How many ways can you choose 4 items from 6?,5
+Find the integral of 3x^10 dx,2
+Compute the result of (8 + 9) × 6,1
+Find the area of a triangle with base 8 and height 4,4
+Solve for x: 10x + 7 = 9,0
+What is the derivative of sin(9x)?,2
+Find the area of a triangle with base 7 and height 3,4
+What is the nth term of the sequence defined by a_n = 1n + 9?,7
+Differentiate: f(x) = 6x^9,2
+What is the chance of drawing an ace from a standard deck?,3
+What is the derivative of sin(5x)?,2
+Find the probability of rolling a total of 7 with two dice.,3
+"If A is a 2x2 matrix, what is A^2 for A = [[3, 10], [1, 3]]?",6
+Find the integral of 7x^8 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[6, 9], [2, 2]]?",6
+What is the chance of drawing an ace from a standard deck?,3
+Find the area of a triangle with base 10 and height 7,4
+"If x + 10 = 1, what is the value of x?",0
+"If a coin is flipped 3 times, what is the probability of getting exactly 1 heads?",3
+Find the sum of the first 9 terms of the geometric series with ratio 3,7
+"What is the rank of the matrix [[7, 9], [5, 7]]?",6
+"What is the rank of the matrix [[8, 3], [10, 6]]?",6
+What is the value of 7 + 10 × 4?,1
+In how many ways can 7 people sit on a bench?,5
+What is the perimeter of a rectangle with sides 2 and 3?,4
+Compute the result of (2 + 4) × 8,1
+What is the 10th term of an arithmetic sequence with first term 6 and common difference 7?,7
+What is the derivative of sin(10x)?,2
+"If x + 3 = 7, what is the value of x?",0
+Calculate the volume of a cube with side length 3,4
+"What is the rank of the matrix [[2, 4], [2, 7]]?",6
+"If a coin is flipped 7 times, what is the probability of getting exactly 3 heads?",3
+What is the nth term of the sequence defined by a_n = 5n + 7?,7
+Find the probability of rolling a total of 7 with two dice.,3
+"If a coin is flipped 9 times, what is the probability of getting exactly 10 heads?",3
+What is the nth term of the sequence defined by a_n = 4n + 7?,7
+Find the integral of 3x^7 dx,2
+"If A is a 2x2 matrix, what is A^2 for A = [[10, 5], [4, 6]]?",6
+Calculate the volume of a cube with side length 7,4
+Solve for x: 9x + 10 = 8,0
+Find the integral of 2x^9 dx,2
+What is the nth term of the sequence defined by a_n = 1n + 4?,7
+What is the nth term of the sequence defined by a_n = 4n + 5?,7
+Find the number of arrangements of the letters in the word 'MATH',5
+Evaluate: 4 - 9 ÷ 6,1
+In how many ways can 5 people sit on a bench?,5
+What is the 10th term of an arithmetic sequence with first term 1 and common difference 7?,7
+Find the area of a triangle with base 4 and height 10,4
+What is the value of 6 + 4 × 9?,1
+Find the sum of the first 3 terms of the geometric series with ratio 2,7
+Find the area of a triangle with base 1 and height 8,4
+How many ways can you choose 2 items from 6?,5
+"If A is a 2x2 matrix, what is A^2 for A = [[1, 8], [4, 6]]?",6
+In how many ways can 1 people sit on a bench?,5
+What is the derivative of sin(1x)?,2
+What is the 10th term of an arithmetic sequence with first term 3 and common difference 10?,7
+What is the value of 9 + 3 × 9?,1
+Find the area of a triangle with base 1 and height 4,4
+In how many ways can 6 people sit on a bench?,5
+What is the 10th term of an arithmetic sequence with first term 10 and common difference 3?,7
+What is the chance of drawing an ace from a standard deck?,3
+Find the probability of rolling a total of 3 with two dice.,3
+"If x + 5 = 9, what is the value of x?",0
+"Compute the determinant of matrix [[10, 6], [9, 6]]",6
+Evaluate: 10 - 9 ÷ 9,1
+Find the area of a triangle with base 3 and height 3,4
+Find the sum of the first 5 terms of the geometric series with ratio 10,7
+What is the nth term of the sequence defined by a_n = 9n + 1?,7
+"If a coin is flipped 3 times, what is the probability of getting exactly 3 heads?",3
+Find the area of a triangle with base 2 and height 3,4
+Find the sum of the first 5 terms of the geometric series with ratio 8,7
+Find the area of a triangle with base 7 and height 10,4
+Find the area of a triangle with base 8 and height 1,4
+Find the probability of rolling a total of 3 with two dice.,3
+Evaluate: 4 - 7 ÷ 3,1
+How many ways can you choose 9 items from 9?,5
+What is the chance of drawing an ace from a standard deck?,3
+Find the integral of 7x^7 dx,2
+"Compute the determinant of matrix [[8, 9], [7, 4]]",6
+Solve for x: 7x + 2 = 9,0
+Find the area of a triangle with base 2 and height 6,4
+How many ways can you choose 1 items from 4?,5
+Find the roots of the equation 4x^2 + 10x + 9 = 0,0
+"Compute the determinant of matrix [[6, 8], [5, 8]]",6
+Solve for x: 8x + 8 = 3,0
+What is the chance of drawing an ace from a standard deck?,3
+"Compute the determinant of matrix [[3, 9], [7, 10]]",6
+Find the probability of rolling a total of 1 with two dice.,3
+Evaluate: 3 - 3 ÷ 5,1
+"If a coin is flipped 7 times, what is the probability of getting exactly 3 heads?",3
+Evaluate: 10 - 10 ÷ 5,1
+What is the derivative of sin(2x)?,2
+Find the roots of the equation 7x^2 + 9x + 1 = 0,0
+Find the area of a triangle with base 10 and height 10,4
+"What is the rank of the matrix [[5, 6], [8, 7]]?",6
+"Compute the determinant of matrix [[4, 10], [3, 1]]",6
+"If a coin is flipped 1 times, what is the probability of getting exactly 3 heads?",3
+Find the roots of the equation 2x^2 + 1x + 8 = 0,0
+Calculate the volume of a cube with side length 1,4
+"Compute the determinant of matrix [[2, 6], [7, 7]]",6
+Find the roots of the equation 7x^2 + 1x + 8 = 0,0
+Evaluate: 9 - 10 ÷ 8,1
+Find the integral of 7x^7 dx,2
+Solve for x: 2x + 10 = 8,0
+Find the area of a triangle with base 5 and height 8,4
+Find the number of arrangements of the letters in the word 'MATH',5
+In how many ways can 9 people sit on a bench?,5
+What is the perimeter of a rectangle with sides 8 and 4?,4
+Evaluate: 9 - 3 ÷ 5,1
+Solve for x: 1x + 4 = 10,0
+"What is the rank of the matrix [[9, 4], [9, 6]]?",6
+Find the roots of the equation 2x^2 + 5x + 6 = 0,0
+What is the value of 2 + 2 × 4?,1
+What is the perimeter of a rectangle with sides 8 and 7?,4
+Find the integral of 4x^8 dx,2
+What is the perimeter of a rectangle with sides 2 and 4?,4
+Find the probability of rolling a total of 5 with two dice.,3
+What is the nth term of the sequence defined by a_n = 4n + 5?,7
+"If A is a 2x2 matrix, what is A^2 for A = [[8, 6], [7, 2]]?",6
+What is the chance of drawing an ace from a standard deck?,3
+Differentiate: f(x) = 9x^5,2
+What is the derivative of sin(9x)?,2
+What is the 10th term of an arithmetic sequence with first term 7 and common difference 8?,7
+Find the area of a triangle with base 6 and height 2,4
+Find the number of arrangements of the letters in the word 'MATH',5
+"If A is a 2x2 matrix, what is A^2 for A = [[6, 10], [10, 4]]?",6
+Find the sum of the first 4 terms of the geometric series with ratio 4,7
+How many ways can you choose 6 items from 2?,5
+What is the derivative of sin(3x)?,2
+Evaluate: 7 - 2 ÷ 5,1
+Compute the result of (4 + 6) × 6,1
+Solve for x: 5x + 5 = 2,0
+"If A is a 2x2 matrix, what is A^2 for A = [[4, 6], [9, 2]]?",6
+What is the derivative of sin(6x)?,2
+What is the 10th term of an arithmetic sequence with first term 3 and common difference 2?,7
+Evaluate: 2 - 8 ÷ 4,1

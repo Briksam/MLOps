@@ -1,0 +1,866 @@
+Question,label
+Compute the number of permutations of 19 distinct objects taken 6 at a time,5
+Find the value of x if x/9 + 6 = 14,0
+Simplify the expression (6x^2 - 16x + 11),0
+Find the number of subsets of size 20 from a set of size 19,5
+Evaluate ∫ (11x + 9) dx,2
+Find the nth term of the arithmetic sequence with a1=5 and d=12,7
+Simplify the expression (15x^2 - 17x + 10),0
+"Find eigenvalues of the 2x2 matrix [[4, 18], [9, 5]]",6
+Evaluate the product 14 × 17 ÷ 7,1
+Compute ∂/∂y of 14x^2y + 4xy,2
+Compute the sum of the infinite geometric series with first term 10 and ratio 7,7
+How many surjections from an 10-element set to a 7-element set?,5
+What is the probability of drawing 16 cards without replacement from a deck of 2?,3
+Find the remainder when 10 is divided by 17,1
+Compute d/dx (1x^17 + 14x),2
+Compute the sum of the infinite geometric series with first term 2 and ratio 6,7
+Compute 5^(1/18).,1
+Find the remainder when 17 is divided by 19,1
+Find the general term of the series defined by a_n = 19n^2 + 19,7
+Compute ∂/∂y of 18x^2y + 11xy,2
+Evaluate ∫ (4x + 15) dx,2
+Find the general term of the series defined by a_n = 1n^2 + 17,7
+Solve for x: 12^2 - 13x + 11 = 0,0
+Simplify the expression (9x^2 - 13x + 1),0
+"Find eigenvalues of the 2x2 matrix [[1, 13], [17, 17]]",6
+Find the value of x if x/13 + 9 = 10,0
+"What is the expected value of a uniform distribution on [4, 3]?",3
+"If A = [[15, 12], [11, 17]], find tr(A)",6
+Find the general term of the series defined by a_n = 13n^2 + 13,7
+Find the remainder when 20 is divided by 14,1
+Compute d/dx (9x^9 + 13x),2
+Compute ∂/∂y of 2x^2y + 3xy,2
+How many binary relations exist on a set of size 8?,5
+Express 18x^2 - 1413 + 11 in factored form,0
+Compute the sum of the infinite geometric series with first term 19 and ratio 14,7
+Compute 10^(1/1).,1
+Solve for x: 3^2 - 14x + 4 = 0,0
+"Find eigenvalues of the 2x2 matrix [[13, 12], [15, 1]]",6
+Find the remainder when 12 is divided by 18,1
+"Compute the Stirling number of the second kind S(6, 6)",5
+Find the remainder when 8 is divided by 10,1
+Compute d/dx (16x^12 + 4x),2
+Find the value of x if x/4 + 6 = 4,0
+"Find eigenvalues of the 2x2 matrix [[11, 19], [6, 8]]",6
+Compute ∂/∂y of 15x^2y + 17xy,2
+Simplify tan(13°) · cos(18°),4
+What is the probability of drawing 4 cards without replacement from a deck of 7?,3
+"Find eigenvalues of the 2x2 matrix [[2, 15], [5, 20]]",6
+Find the general term of the series defined by a_n = 10n^2 + 10,7
+Compute the sum of the infinite geometric series with first term 5 and ratio 1,7
+Find d^2/dx^2 of x^18,2
+"Determine if vectors (11, 1, 4) and (8, 10, 14) are orthogonal",6
+Simplify the expression (13x^2 - 16x + 5),0
+Compute the number of permutations of 20 distinct objects taken 17 at a time,5
+Solve for x: 9^2 - 8x + 19 = 0,0
+"What is the expected value of a uniform distribution on [4, 4]?",3
+Solve for x: 14^2 - 7x + 9 = 0,0
+"Determine if vectors (11, 14, 18) and (3, 6, 16) are orthogonal",6
+What is 2% of 19?,1
+Solve for x: 6^2 - 5x + 8 = 0,0
+Convert 9/14 to a decimal,1
+Find the length of hypotenuse in a right triangle with legs 8 and 1,4
+Simplify the expression (9x^2 - 13x + 20),0
+Find the remainder when 6 is divided by 14,1
+"In a binomial distribution with n=14 and p=10, find P(X=10)",3
+Compute the area of a trapezoid with bases 7 and 19 and height 9,4
+How many surjections from an 9-element set to a 17-element set?,5
+Find the number of subsets of size 12 from a set of size 19,5
+"Find eigenvalues of the 2x2 matrix [[20, 1], [3, 10]]",6
+Compute the number of permutations of 16 distinct objects taken 19 at a time,5
+"Find eigenvalues of the 2x2 matrix [[12, 7], [18, 6]]",6
+Evaluate ∫ (20x + 2) dx,2
+Compute d/dx (13x^6 + 19x),2
+Solve the inequality 5x + 8 > 12,0
+"What is the expected value of a uniform distribution on [20, 6]?",3
+Find the remainder when 1 is divided by 11,1
+"What is the circumcircle radius of a triangle with sides 3, 8, 12?",4
+What is the probability of drawing 3 cards without replacement from a deck of 4?,3
+Compute d/dx (9x^16 + 19x),2
+Find the nth term of the arithmetic sequence with a1=11 and d=13,7
+"Compute the Stirling number of the second kind S(16, 18)",5
+Evaluate the product 6 × 14 ÷ 19,1
+Compute ∂/∂y of 16x^2y + 3xy,2
+"Compute the Stirling number of the second kind S(14, 12)",5
+Simplify the expression (14x^2 - 1x + 17),0
+"What is the expected value of a uniform distribution on [16, 7]?",3
+"Find eigenvalues of the 2x2 matrix [[9, 10], [4, 8]]",6
+Compute the number of permutations of 20 distinct objects taken 5 at a time,5
+Find the nth term of the arithmetic sequence with a1=13 and d=20,7
+Evaluate the product 14 × 5 ÷ 11,1
+"What is the expected value of a uniform distribution on [7, 9]?",3
+Find the nth term of the arithmetic sequence with a1=6 and d=17,7
+What is 16% of 20?,1
+"What is the expected value of a uniform distribution on [10, 15]?",3
+Express 14x^2 - 193 + 14 in factored form,0
+"What is the circumcircle radius of a triangle with sides 8, 17, 12?",4
+How many surjections from an 20-element set to a 6-element set?,5
+"Compute the inverse of [[10, 17, 1],[14, 7, 8],[18, 8, 11]] if it exists",6
+Compute the sum of the infinite geometric series with first term 8 and ratio 6,7
+Find the sin(16°) using exact values,4
+Simplify the expression (15x^2 - 11x + 2),0
+Compute d/dx (13x^3 + 17x),2
+Compute 17^(1/9).,1
+Evaluate ∫ (19x + 14) dx,2
+Find the length of hypotenuse in a right triangle with legs 7 and 1,4
+How many binary relations exist on a set of size 14?,5
+Compute the area of a trapezoid with bases 11 and 15 and height 10,4
+Find the number of subsets of size 20 from a set of size 16,5
+Find the remainder when 19 is divided by 19,1
+Compute the number of permutations of 3 distinct objects taken 13 at a time,5
+Compute the area of a trapezoid with bases 10 and 3 and height 12,4
+"Compute the inverse of [[12, 17, 7],[4, 3, 10],[14, 16, 11]] if it exists",6
+How many binary relations exist on a set of size 5?,5
+What is the probability of drawing 19 cards without replacement from a deck of 7?,3
+"If A = [[8, 13], [1, 9]], find tr(A)",6
+"What is the expected value of a uniform distribution on [2, 20]?",3
+Find the value of x if x/5 + 12 = 14,0
+Solve the inequality 18x + 4 > 20,0
+"If two events A and B are independent with P(A)=7 and P(B)=16, find P(A∪B)",3
+Find the length of hypotenuse in a right triangle with legs 9 and 20,4
+How many surjections from an 5-element set to a 19-element set?,5
+Compute d/dx (19x^11 + 18x),2
+Compute the area of a trapezoid with bases 13 and 5 and height 14,4
+Compute the area of a trapezoid with bases 7 and 18 and height 4,4
+Evaluate the product 14 × 20 ÷ 16,1
+Compute the number of permutations of 4 distinct objects taken 20 at a time,5
+Find the length of hypotenuse in a right triangle with legs 3 and 1,4
+Find the number of subsets of size 17 from a set of size 9,5
+Simplify the expression (2x^2 - 3x + 18),0
+Compute the number of permutations of 7 distinct objects taken 2 at a time,5
+Find the general term of the series defined by a_n = 9n^2 + 15,7
+Compute the sum of the infinite geometric series with first term 11 and ratio 3,7
+"Compute the inverse of [[20, 20, 11],[4, 16, 2],[17, 7, 8]] if it exists",6
+Evaluate ∫ (1x + 19) dx,2
+Simplify tan(6°) · cos(4°),4
+Find the length of hypotenuse in a right triangle with legs 9 and 12,4
+Find d^2/dx^2 of x^9,2
+Find the nth term of the arithmetic sequence with a1=1 and d=11,7
+"What is the expected value of a uniform distribution on [13, 1]?",3
+"In a binomial distribution with n=15 and p=2, find P(X=4)",3
+Express 10x^2 - 316 + 8 in factored form,0
+Solve the inequality 5x + 4 > 12,0
+"Compute the inverse of [[14, 5, 7],[11, 11, 9],[12, 4, 18]] if it exists",6
+Solve the inequality 18x + 11 > 13,0
+Express 17x^2 - 1917 + 2 in factored form,0
+"In a binomial distribution with n=7 and p=19, find P(X=7)",3
+Find the nth term of the arithmetic sequence with a1=10 and d=14,7
+Convert 15/18 to a decimal,1
+Evaluate the product 15 × 7 ÷ 16,1
+Compute the sum of the infinite geometric series with first term 14 and ratio 2,7
+Find the value of x if x/12 + 5 = 10,0
+What is the probability of drawing 7 cards without replacement from a deck of 10?,3
+Find d^2/dx^2 of x^10,2
+Simplify the expression (17x^2 - 4x + 2),0
+Compute ∂/∂y of 16x^2y + 13xy,2
+Express 5x^2 - 1116 + 12 in factored form,0
+Evaluate ∫ (11x + 2) dx,2
+What is the probability of drawing 7 cards without replacement from a deck of 3?,3
+Find d^2/dx^2 of x^8,2
+"If two events A and B are independent with P(A)=7 and P(B)=9, find P(A∪B)",3
+"If A = [[7, 18], [11, 19]], find tr(A)",6
+"Solve for x,y: [[4, 20],[18, 8]] [x y]^T = [16, 4]^T",6
+"What is the expected value of a uniform distribution on [7, 5]?",3
+Find the remainder when 8 is divided by 12,1
+Simplify the expression (19x^2 - 7x + 1),0
+Compute the area of a trapezoid with bases 4 and 18 and height 13,4
+Compute the area of a trapezoid with bases 6 and 15 and height 13,4
+Compute the area of a trapezoid with bases 13 and 7 and height 15,4
+Compute 14^(1/14).,1
+Find the remainder when 13 is divided by 4,1
+Compute the area of a trapezoid with bases 12 and 1 and height 3,4
+Compute d/dx (20x^3 + 10x),2
+Evaluate the product 3 × 5 ÷ 18,1
+Find d^2/dx^2 of x^17,2
+"What is the circumcircle radius of a triangle with sides 2, 8, 12?",4
+"If A = [[12, 3], [1, 3]], find tr(A)",6
+Simplify the expression (2x^2 - 14x + 10),0
+"Determine if vectors (7, 8, 18) and (13, 16, 10) are orthogonal",6
+How many surjections from an 9-element set to a 19-element set?,5
+Find the nth term of the arithmetic sequence with a1=7 and d=15,7
+Find the sin(12°) using exact values,4
+How many binary relations exist on a set of size 17?,5
+How many surjections from an 17-element set to a 2-element set?,5
+Find the general term of the series defined by a_n = 8n^2 + 5,7
+"Solve for x,y: [[9, 7],[2, 2]] [x y]^T = [2, 12]^T",6
+Solve the inequality 16x + 8 > 11,0
+Simplify the expression (12x^2 - 15x + 14),0
+"Compute the inverse of [[3, 2, 5],[16, 15, 2],[12, 2, 10]] if it exists",6
+Solve the inequality 11x + 12 > 15,0
+Simplify the expression (13x^2 - 6x + 16),0
+What is the probability of drawing 18 cards without replacement from a deck of 9?,3
+"If A = [[7, 17], [19, 15]], find tr(A)",6
+"What is the circumcircle radius of a triangle with sides 3, 19, 18?",4
+"Determine if vectors (18, 15, 7) and (20, 16, 8) are orthogonal",6
+Compute the sum of the infinite geometric series with first term 18 and ratio 2,7
+"Solve for x,y: [[3, 8],[12, 8]] [x y]^T = [13, 4]^T",6
+"If A = [[4, 11], [12, 1]], find tr(A)",6
+Find the value of x if x/10 + 19 = 8,0
+Find the number of subsets of size 14 from a set of size 14,5
+Evaluate ∫ (19x + 18) dx,2
+"Determine if vectors (18, 20, 10) and (12, 4, 11) are orthogonal",6
+Evaluate the product 14 × 14 ÷ 4,1
+How many surjections from an 17-element set to a 1-element set?,5
+Find the length of hypotenuse in a right triangle with legs 16 and 9,4
+"What is the circumcircle radius of a triangle with sides 15, 3, 9?",4
+Compute the sum of the infinite geometric series with first term 12 and ratio 8,7
+Simplify tan(11°) · cos(8°),4
+Compute ∂/∂y of 9x^2y + 7xy,2
+"What is the circumcircle radius of a triangle with sides 13, 13, 13?",4
+What is 20% of 10?,1
+Find the nth term of the arithmetic sequence with a1=11 and d=19,7
+"If A = [[14, 18], [1, 1]], find tr(A)",6
+Compute d/dx (3x^3 + 17x),2
+"In a binomial distribution with n=5 and p=8, find P(X=8)",3
+Find the general term of the series defined by a_n = 1n^2 + 20,7
+Find the remainder when 16 is divided by 4,1
+"What is the expected value of a uniform distribution on [1, 7]?",3
+"Compute the Stirling number of the second kind S(19, 1)",5
+Find the length of hypotenuse in a right triangle with legs 16 and 7,4
+What is 17% of 6?,1
+Compute ∂/∂y of 19x^2y + 8xy,2
+Find the sin(6°) using exact values,4
+What is 12% of 3?,1
+"Solve for x,y: [[6, 10],[15, 1]] [x y]^T = [14, 15]^T",6
+"Compute the Stirling number of the second kind S(7, 20)",5
+"Compute the Stirling number of the second kind S(18, 3)",5
+Find the number of subsets of size 9 from a set of size 15,5
+Find the sin(8°) using exact values,4
+Express 11x^2 - 1214 + 3 in factored form,0
+"If two events A and B are independent with P(A)=9 and P(B)=8, find P(A∪B)",3
+"If two events A and B are independent with P(A)=5 and P(B)=3, find P(A∪B)",3
+"Determine if vectors (4, 12, 16) and (12, 15, 15) are orthogonal",6
+"What is the expected value of a uniform distribution on [12, 16]?",3
+"What is the circumcircle radius of a triangle with sides 9, 16, 11?",4
+Evaluate the product 7 × 18 ÷ 4,1
+What is the probability of drawing 17 cards without replacement from a deck of 14?,3
+How many surjections from an 16-element set to a 8-element set?,5
+How many surjections from an 2-element set to a 4-element set?,5
+"If two events A and B are independent with P(A)=8 and P(B)=12, find P(A∪B)",3
+Find the general term of the series defined by a_n = 3n^2 + 15,7
+Express 5x^2 - 1818 + 1 in factored form,0
+How many surjections from an 3-element set to a 8-element set?,5
+Solve for x: 1^2 - 4x + 17 = 0,0
+Express 7x^2 - 199 + 9 in factored form,0
+Convert 8/11 to a decimal,1
+Find the sin(10°) using exact values,4
+"What is the circumcircle radius of a triangle with sides 9, 14, 20?",4
+"Compute the Stirling number of the second kind S(2, 19)",5
+Compute the number of permutations of 6 distinct objects taken 19 at a time,5
+Compute the area of a trapezoid with bases 14 and 20 and height 12,4
+Find the general term of the series defined by a_n = 17n^2 + 12,7
+How many binary relations exist on a set of size 11?,5
+Compute the area of a trapezoid with bases 2 and 16 and height 8,4
+Compute d/dx (8x^9 + 7x),2
+Compute the number of permutations of 12 distinct objects taken 20 at a time,5
+Express 4x^2 - 1514 + 8 in factored form,0
+Compute the sum of the infinite geometric series with first term 17 and ratio 13,7
+Solve the inequality 18x + 16 > 8,0
+Express 2x^2 - 1520 + 18 in factored form,0
+Evaluate the product 5 × 11 ÷ 5,1
+Find the nth term of the arithmetic sequence with a1=6 and d=8,7
+"Compute the Stirling number of the second kind S(9, 5)",5
+Simplify tan(8°) · cos(4°),4
+Compute the area of a trapezoid with bases 3 and 19 and height 7,4
+Find the number of subsets of size 20 from a set of size 17,5
+What is 11% of 11?,1
+"If two events A and B are independent with P(A)=7 and P(B)=20, find P(A∪B)",3
+Compute ∂/∂y of 12x^2y + 12xy,2
+Find d^2/dx^2 of x^11,2
+"If two events A and B are independent with P(A)=14 and P(B)=17, find P(A∪B)",3
+Solve the inequality 18x + 10 > 9,0
+Solve the inequality 4x + 12 > 13,0
+Convert 13/19 to a decimal,1
+"Compute the Stirling number of the second kind S(7, 3)",5
+"In a binomial distribution with n=9 and p=16, find P(X=7)",3
+Express 14x^2 - 48 + 19 in factored form,0
+Find the general term of the series defined by a_n = 18n^2 + 13,7
+What is 5% of 5?,1
+"What is the expected value of a uniform distribution on [5, 1]?",3
+Express 9x^2 - 620 + 5 in factored form,0
+Find the sin(3°) using exact values,4
+Find the remainder when 4 is divided by 1,1
+What is 10% of 3?,1
+What is 7% of 20?,1
+Evaluate the product 16 × 2 ÷ 7,1
+Compute the sum of the infinite geometric series with first term 1 and ratio 9,7
+Find the value of x if x/18 + 11 = 14,0
+"What is the expected value of a uniform distribution on [15, 17]?",3
+Evaluate ∫ (15x + 17) dx,2
+Find the general term of the series defined by a_n = 9n^2 + 20,7
+What is the probability of drawing 1 cards without replacement from a deck of 10?,3
+Compute 1^(1/7).,1
+Find the length of hypotenuse in a right triangle with legs 10 and 19,4
+How many surjections from an 5-element set to a 3-element set?,5
+Find the length of hypotenuse in a right triangle with legs 10 and 8,4
+Find the remainder when 12 is divided by 17,1
+"Solve for x,y: [[14, 8],[8, 16]] [x y]^T = [8, 6]^T",6
+"What is the circumcircle radius of a triangle with sides 1, 9, 16?",4
+Evaluate ∫ (6x + 18) dx,2
+Compute ∂/∂y of 13x^2y + 10xy,2
+Simplify the expression (20x^2 - 12x + 18),0
+"If A = [[3, 1], [12, 14]], find tr(A)",6
+Simplify tan(2°) · cos(3°),4
+Evaluate the product 5 × 5 ÷ 12,1
+How many binary relations exist on a set of size 6?,5
+Compute d/dx (14x^15 + 4x),2
+Find the remainder when 6 is divided by 19,1
+"Compute the Stirling number of the second kind S(13, 18)",5
+"What is the circumcircle radius of a triangle with sides 20, 11, 1?",4
+Find the remainder when 17 is divided by 5,1
+Evaluate ∫ (10x + 11) dx,2
+Evaluate ∫ (12x + 16) dx,2
+Compute d/dx (15x^15 + 7x),2
+"In a binomial distribution with n=3 and p=3, find P(X=4)",3
+"Find eigenvalues of the 2x2 matrix [[11, 13], [4, 6]]",6
+Find the general term of the series defined by a_n = 1n^2 + 2,7
+Simplify the expression (19x^2 - 1x + 9),0
+What is the probability of drawing 9 cards without replacement from a deck of 12?,3
+Compute the number of permutations of 7 distinct objects taken 20 at a time,5
+Evaluate the product 8 × 4 ÷ 10,1
+How many surjections from an 4-element set to a 1-element set?,5
+Find the number of subsets of size 20 from a set of size 18,5
+What is the probability of drawing 9 cards without replacement from a deck of 8?,3
+Compute d/dx (3x^16 + 4x),2
+Simplify the expression (14x^2 - 6x + 2),0
+Simplify the expression (20x^2 - 13x + 7),0
+"What is the expected value of a uniform distribution on [16, 8]?",3
+Compute the area of a trapezoid with bases 19 and 17 and height 5,4
+Find d^2/dx^2 of x^19,2
+Find d^2/dx^2 of x^7,2
+Find the length of hypotenuse in a right triangle with legs 3 and 10,4
+Find the number of subsets of size 9 from a set of size 6,5
+"If A = [[2, 11], [17, 12]], find tr(A)",6
+Simplify the expression (1x^2 - 20x + 8),0
+"Solve for x,y: [[14, 13],[4, 6]] [x y]^T = [19, 14]^T",6
+"Find eigenvalues of the 2x2 matrix [[16, 13], [14, 7]]",6
+"If two events A and B are independent with P(A)=13 and P(B)=15, find P(A∪B)",3
+"If two events A and B are independent with P(A)=1 and P(B)=6, find P(A∪B)",3
+"Solve for x,y: [[1, 8],[15, 5]] [x y]^T = [20, 18]^T",6
+"If A = [[14, 14], [1, 1]], find tr(A)",6
+Solve for x: 9^2 - 6x + 20 = 0,0
+"If A = [[12, 19], [4, 18]], find tr(A)",6
+Evaluate the product 5 × 6 ÷ 2,1
+Compute the area of a trapezoid with bases 16 and 20 and height 11,4
+"What is the expected value of a uniform distribution on [6, 16]?",3
+Compute the sum of the infinite geometric series with first term 5 and ratio 9,7
+Find the value of x if x/1 + 13 = 7,0
+Compute 18^(1/20).,1
+Find the remainder when 19 is divided by 9,1
+"Find eigenvalues of the 2x2 matrix [[15, 16], [11, 16]]",6
+How many surjections from an 16-element set to a 16-element set?,5
+Compute the area of a trapezoid with bases 1 and 16 and height 18,4
+"Compute the Stirling number of the second kind S(13, 7)",5
+Compute ∂/∂y of 8x^2y + 1xy,2
+Compute the sum of the infinite geometric series with first term 14 and ratio 8,7
+Compute the sum of the infinite geometric series with first term 7 and ratio 5,7
+"If A = [[17, 4], [20, 12]], find tr(A)",6
+Find the remainder when 5 is divided by 13,1
+Find the remainder when 8 is divided by 6,1
+Compute the area of a trapezoid with bases 20 and 6 and height 3,4
+Compute d/dx (3x^11 + 10x),2
+Find the general term of the series defined by a_n = 7n^2 + 15,7
+"What is the expected value of a uniform distribution on [20, 2]?",3
+What is the probability of drawing 8 cards without replacement from a deck of 1?,3
+How many surjections from an 4-element set to a 14-element set?,5
+"Determine if vectors (8, 7, 11) and (14, 6, 8) are orthogonal",6
+How many surjections from an 18-element set to a 15-element set?,5
+"What is the circumcircle radius of a triangle with sides 1, 11, 2?",4
+"In a binomial distribution with n=3 and p=11, find P(X=2)",3
+Compute ∂/∂y of 8x^2y + 8xy,2
+Solve for x: 16^2 - 12x + 6 = 0,0
+Simplify tan(18°) · cos(3°),4
+Convert 11/20 to a decimal,1
+Find the value of x if x/17 + 4 = 16,0
+Find the value of x if x/4 + 9 = 1,0
+"If two events A and B are independent with P(A)=18 and P(B)=7, find P(A∪B)",3
+Convert 15/1 to a decimal,1
+Simplify the expression (20x^2 - 6x + 12),0
+Compute ∂/∂y of 10x^2y + 12xy,2
+Compute the number of permutations of 8 distinct objects taken 16 at a time,5
+"Compute the inverse of [[19, 3, 12],[2, 10, 16],[9, 3, 2]] if it exists",6
+"Determine if vectors (20, 2, 4) and (19, 20, 7) are orthogonal",6
+"Solve for x,y: [[10, 1],[16, 12]] [x y]^T = [17, 18]^T",6
+"What is the circumcircle radius of a triangle with sides 19, 13, 6?",4
+"Find eigenvalues of the 2x2 matrix [[14, 13], [14, 15]]",6
+"What is the expected value of a uniform distribution on [15, 14]?",3
+Find the value of x if x/5 + 11 = 12,0
+"Solve for x,y: [[6, 5],[20, 17]] [x y]^T = [17, 13]^T",6
+Find the length of hypotenuse in a right triangle with legs 16 and 13,4
+Convert 10/16 to a decimal,1
+Find the nth term of the arithmetic sequence with a1=2 and d=14,7
+Compute 2^(1/4).,1
+"Solve for x,y: [[18, 7],[13, 16]] [x y]^T = [14, 17]^T",6
+"In a binomial distribution with n=10 and p=15, find P(X=9)",3
+How many surjections from an 14-element set to a 13-element set?,5
+How many surjections from an 7-element set to a 4-element set?,5
+Express 20x^2 - 519 + 15 in factored form,0
+"Compute the Stirling number of the second kind S(12, 4)",5
+Express 12x^2 - 51 + 18 in factored form,0
+Compute ∂/∂y of 19x^2y + 11xy,2
+Compute the number of permutations of 12 distinct objects taken 16 at a time,5
+Compute the area of a trapezoid with bases 4 and 5 and height 8,4
+Compute the sum of the infinite geometric series with first term 10 and ratio 20,7
+Compute the area of a trapezoid with bases 15 and 10 and height 16,4
+Simplify tan(19°) · cos(20°),4
+How many surjections from an 17-element set to a 5-element set?,5
+Find the nth term of the arithmetic sequence with a1=4 and d=18,7
+Solve for x: 17^2 - 20x + 12 = 0,0
+Evaluate ∫ (8x + 9) dx,2
+Compute the sum of the infinite geometric series with first term 13 and ratio 15,7
+Compute the area of a trapezoid with bases 10 and 8 and height 7,4
+Find the general term of the series defined by a_n = 7n^2 + 8,7
+"In a binomial distribution with n=3 and p=10, find P(X=12)",3
+Simplify the expression (7x^2 - 11x + 4),0
+"What is the circumcircle radius of a triangle with sides 20, 11, 12?",4
+What is 8% of 12?,1
+Convert 17/14 to a decimal,1
+How many binary relations exist on a set of size 15?,5
+How many binary relations exist on a set of size 4?,5
+"Compute the inverse of [[2, 20, 15],[7, 4, 15],[6, 4, 6]] if it exists",6
+Solve the inequality 12x + 14 > 7,0
+Convert 19/9 to a decimal,1
+"If two events A and B are independent with P(A)=13 and P(B)=10, find P(A∪B)",3
+"Compute the inverse of [[10, 3, 19],[17, 18, 7],[16, 12, 16]] if it exists",6
+Find the number of subsets of size 2 from a set of size 10,5
+"If A = [[17, 15], [8, 13]], find tr(A)",6
+"What is the circumcircle radius of a triangle with sides 12, 7, 8?",4
+Solve for x: 8^2 - 20x + 12 = 0,0
+How many surjections from an 19-element set to a 17-element set?,5
+Compute the area of a trapezoid with bases 6 and 6 and height 9,4
+Find d^2/dx^2 of x^15,2
+What is the probability of drawing 6 cards without replacement from a deck of 5?,3
+Solve the inequality 7x + 1 > 11,0
+"Find eigenvalues of the 2x2 matrix [[8, 15], [2, 3]]",6
+"Determine if vectors (10, 15, 17) and (4, 14, 5) are orthogonal",6
+Find the general term of the series defined by a_n = 2n^2 + 18,7
+Compute ∂/∂y of 3x^2y + 12xy,2
+Compute the area of a trapezoid with bases 7 and 17 and height 4,4
+Compute d/dx (2x^15 + 15x),2
+"What is the circumcircle radius of a triangle with sides 2, 9, 5?",4
+Compute ∂/∂y of 1x^2y + 15xy,2
+Solve the inequality 19x + 12 > 5,0
+Find the general term of the series defined by a_n = 4n^2 + 3,7
+"If A = [[6, 10], [4, 17]], find tr(A)",6
+Solve for x: 3^2 - 15x + 19 = 0,0
+Compute d/dx (6x^8 + 4x),2
+"If two events A and B are independent with P(A)=19 and P(B)=13, find P(A∪B)",3
+Solve for x: 1^2 - 3x + 8 = 0,0
+Find the length of hypotenuse in a right triangle with legs 8 and 14,4
+"If two events A and B are independent with P(A)=1 and P(B)=15, find P(A∪B)",3
+Find the remainder when 7 is divided by 18,1
+"Solve for x,y: [[6, 17],[11, 10]] [x y]^T = [4, 12]^T",6
+Find the nth term of the arithmetic sequence with a1=16 and d=18,7
+Find the sin(5°) using exact values,4
+Find the remainder when 2 is divided by 15,1
+What is 16% of 6?,1
+"If two events A and B are independent with P(A)=11 and P(B)=14, find P(A∪B)",3
+Solve for x: 13^2 - 10x + 14 = 0,0
+Simplify tan(5°) · cos(15°),4
+Convert 5/17 to a decimal,1
+Evaluate the product 4 × 13 ÷ 17,1
+Simplify the expression (20x^2 - 17x + 6),0
+Find the value of x if x/5 + 2 = 14,0
+Compute the number of permutations of 16 distinct objects taken 3 at a time,5
+What is 9% of 16?,1
+Compute d/dx (15x^11 + 15x),2
+"Solve for x,y: [[19, 1],[8, 15]] [x y]^T = [7, 18]^T",6
+"Solve for x,y: [[5, 13],[4, 17]] [x y]^T = [19, 9]^T",6
+Convert 8/4 to a decimal,1
+Compute the number of permutations of 19 distinct objects taken 11 at a time,5
+Find the value of x if x/14 + 11 = 14,0
+"Find eigenvalues of the 2x2 matrix [[17, 2], [1, 11]]",6
+Find the remainder when 14 is divided by 8,1
+Find the sin(15°) using exact values,4
+"Determine if vectors (12, 2, 13) and (2, 15, 4) are orthogonal",6
+Find d^2/dx^2 of x^14,2
+Evaluate ∫ (19x + 20) dx,2
+Find the remainder when 12 is divided by 11,1
+"In a binomial distribution with n=15 and p=14, find P(X=12)",3
+"If A = [[2, 16], [11, 7]], find tr(A)",6
+"What is the expected value of a uniform distribution on [12, 1]?",3
+Find the number of subsets of size 3 from a set of size 13,5
+Find the number of subsets of size 8 from a set of size 16,5
+How many surjections from an 14-element set to a 3-element set?,5
+Find the number of subsets of size 10 from a set of size 9,5
+"Determine if vectors (3, 3, 14) and (4, 12, 7) are orthogonal",6
+Compute d/dx (9x^20 + 1x),2
+"Solve for x,y: [[1, 9],[13, 8]] [x y]^T = [16, 15]^T",6
+Find the sin(19°) using exact values,4
+"Find eigenvalues of the 2x2 matrix [[3, 7], [2, 4]]",6
+Compute the area of a trapezoid with bases 20 and 11 and height 16,4
+Find the length of hypotenuse in a right triangle with legs 20 and 11,4
+Solve the inequality 5x + 3 > 7,0
+Evaluate the product 17 × 13 ÷ 5,1
+"Compute the Stirling number of the second kind S(12, 17)",5
+Find the length of hypotenuse in a right triangle with legs 13 and 12,4
+Compute the number of permutations of 10 distinct objects taken 3 at a time,5
+How many binary relations exist on a set of size 10?,5
+Evaluate the product 8 × 15 ÷ 7,1
+"Determine if vectors (15, 18, 6) and (9, 16, 15) are orthogonal",6
+Solve the inequality 5x + 9 > 8,0
+What is the probability of drawing 18 cards without replacement from a deck of 10?,3
+Find the general term of the series defined by a_n = 13n^2 + 10,7
+"In a binomial distribution with n=19 and p=20, find P(X=5)",3
+Solve the inequality 11x + 15 > 6,0
+"Determine if vectors (19, 10, 15) and (4, 13, 14) are orthogonal",6
+"What is the circumcircle radius of a triangle with sides 7, 3, 11?",4
+Find the nth term of the arithmetic sequence with a1=8 and d=6,7
+"Find eigenvalues of the 2x2 matrix [[5, 10], [8, 18]]",6
+Find d^2/dx^2 of x^13,2
+Compute the number of permutations of 19 distinct objects taken 2 at a time,5
+Find d^2/dx^2 of x^1,2
+Compute the area of a trapezoid with bases 18 and 14 and height 20,4
+Compute ∂/∂y of 3x^2y + 18xy,2
+How many surjections from an 20-element set to a 14-element set?,5
+Evaluate the product 4 × 14 ÷ 19,1
+"Determine if vectors (15, 6, 12) and (18, 11, 3) are orthogonal",6
+Solve for x: 10^2 - 17x + 13 = 0,0
+Find the value of x if x/14 + 13 = 18,0
+Solve the inequality 4x + 3 > 11,0
+What is the probability of drawing 11 cards without replacement from a deck of 13?,3
+"What is the expected value of a uniform distribution on [9, 3]?",3
+Evaluate the product 17 × 2 ÷ 13,1
+Evaluate the product 18 × 15 ÷ 3,1
+Simplify the expression (1x^2 - 20x + 12),0
+Convert 15/14 to a decimal,1
+Compute 10^(1/7).,1
+Compute the area of a trapezoid with bases 19 and 8 and height 1,4
+Express 13x^2 - 113 + 16 in factored form,0
+Simplify tan(14°) · cos(16°),4
+"If two events A and B are independent with P(A)=3 and P(B)=1, find P(A∪B)",3
+Find the length of hypotenuse in a right triangle with legs 6 and 8,4
+"What is the expected value of a uniform distribution on [20, 17]?",3
+Compute the number of permutations of 9 distinct objects taken 9 at a time,5
+Compute the area of a trapezoid with bases 2 and 5 and height 12,4
+Compute the area of a trapezoid with bases 8 and 9 and height 15,4
+Compute 4^(1/4).,1
+Compute d/dx (20x^20 + 17x),2
+How many surjections from an 5-element set to a 17-element set?,5
+How many surjections from an 11-element set to a 2-element set?,5
+Simplify the expression (18x^2 - 10x + 15),0
+"Compute the inverse of [[20, 15, 12],[7, 17, 19],[9, 19, 1]] if it exists",6
+Evaluate the product 11 × 18 ÷ 3,1
+"What is the expected value of a uniform distribution on [7, 1]?",3
+Evaluate the product 17 × 5 ÷ 20,1
+"Find eigenvalues of the 2x2 matrix [[15, 16], [12, 1]]",6
+Compute 9^(1/20).,1
+Find the number of subsets of size 9 from a set of size 16,5
+Solve the inequality 14x + 8 > 16,0
+Evaluate the product 13 × 11 ÷ 3,1
+Compute the sum of the infinite geometric series with first term 14 and ratio 18,7
+Compute the number of permutations of 1 distinct objects taken 20 at a time,5
+Simplify tan(1°) · cos(18°),4
+"Solve for x,y: [[2, 19],[11, 18]] [x y]^T = [3, 18]^T",6
+Express 13x^2 - 94 + 5 in factored form,0
+"Determine if vectors (10, 11, 4) and (17, 19, 13) are orthogonal",6
+Simplify tan(9°) · cos(9°),4
+Compute the number of permutations of 3 distinct objects taken 9 at a time,5
+How many surjections from an 16-element set to a 7-element set?,5
+Express 16x^2 - 165 + 1 in factored form,0
+Compute the sum of the infinite geometric series with first term 15 and ratio 3,7
+How many surjections from an 7-element set to a 3-element set?,5
+"If two events A and B are independent with P(A)=9 and P(B)=11, find P(A∪B)",3
+How many binary relations exist on a set of size 1?,5
+Find the number of subsets of size 8 from a set of size 6,5
+"In a binomial distribution with n=12 and p=17, find P(X=10)",3
+Find the value of x if x/12 + 17 = 8,0
+Compute the number of permutations of 16 distinct objects taken 6 at a time,5
+Convert 11/18 to a decimal,1
+"Solve for x,y: [[3, 5],[20, 8]] [x y]^T = [2, 15]^T",6
+"What is the circumcircle radius of a triangle with sides 1, 13, 15?",4
+"What is the circumcircle radius of a triangle with sides 1, 6, 14?",4
+What is 1% of 6?,1
+Compute d/dx (14x^14 + 9x),2
+"What is the expected value of a uniform distribution on [20, 3]?",3
+Find the value of x if x/2 + 2 = 12,0
+Find the general term of the series defined by a_n = 20n^2 + 18,7
+What is the probability of drawing 5 cards without replacement from a deck of 8?,3
+Find the length of hypotenuse in a right triangle with legs 1 and 18,4
+Compute the number of permutations of 14 distinct objects taken 4 at a time,5
+Simplify tan(12°) · cos(6°),4
+Solve the inequality 3x + 20 > 13,0
+How many surjections from an 11-element set to a 17-element set?,5
+Compute the area of a trapezoid with bases 16 and 14 and height 6,4
+"Determine if vectors (1, 19, 18) and (3, 10, 6) are orthogonal",6
+"What is the expected value of a uniform distribution on [14, 10]?",3
+"What is the circumcircle radius of a triangle with sides 4, 13, 5?",4
+Find the general term of the series defined by a_n = 16n^2 + 3,7
+Evaluate ∫ (8x + 8) dx,2
+Express 1x^2 - 131 + 4 in factored form,0
+Compute the number of permutations of 10 distinct objects taken 1 at a time,5
+Solve the inequality 13x + 6 > 20,0
+What is 1% of 7?,1
+"Find eigenvalues of the 2x2 matrix [[9, 17], [3, 3]]",6
+What is 8% of 15?,1
+Compute the area of a trapezoid with bases 5 and 11 and height 20,4
+"What is the expected value of a uniform distribution on [10, 5]?",3
+Simplify tan(19°) · cos(16°),4
+"What is the expected value of a uniform distribution on [1, 13]?",3
+What is 11% of 12?,1
+Find d^2/dx^2 of x^6,2
+Solve the inequality 13x + 11 > 11,0
+Evaluate the product 19 × 20 ÷ 20,1
+What is the probability of drawing 3 cards without replacement from a deck of 2?,3
+What is the probability of drawing 20 cards without replacement from a deck of 14?,3
+"Solve for x,y: [[16, 18],[9, 6]] [x y]^T = [13, 9]^T",6
+"Compute the Stirling number of the second kind S(17, 19)",5
+Convert 9/7 to a decimal,1
+Evaluate the product 20 × 17 ÷ 18,1
+Solve the inequality 2x + 17 > 17,0
+Compute d/dx (15x^14 + 6x),2
+Find the length of hypotenuse in a right triangle with legs 13 and 3,4
+Solve the inequality 1x + 19 > 2,0
+Evaluate the product 6 × 16 ÷ 7,1
+Simplify tan(10°) · cos(17°),4
+Find the length of hypotenuse in a right triangle with legs 7 and 15,4
+"Compute the inverse of [[5, 12, 3],[16, 20, 5],[9, 12, 15]] if it exists",6
+Compute ∂/∂y of 20x^2y + 2xy,2
+"Find eigenvalues of the 2x2 matrix [[4, 16], [7, 15]]",6
+"What is the circumcircle radius of a triangle with sides 17, 10, 14?",4
+How many surjections from an 20-element set to a 18-element set?,5
+Evaluate ∫ (6x + 10) dx,2
+Find the nth term of the arithmetic sequence with a1=1 and d=1,7
+Compute ∂/∂y of 16x^2y + 10xy,2
+"Determine if vectors (14, 5, 18) and (16, 13, 14) are orthogonal",6
+Find the number of subsets of size 14 from a set of size 13,5
+Compute the number of permutations of 4 distinct objects taken 11 at a time,5
+"What is the circumcircle radius of a triangle with sides 9, 5, 18?",4
+"What is the expected value of a uniform distribution on [14, 19]?",3
+"Solve for x,y: [[20, 1],[3, 15]] [x y]^T = [20, 8]^T",6
+Compute the area of a trapezoid with bases 19 and 8 and height 2,4
+Find the nth term of the arithmetic sequence with a1=8 and d=4,7
+Find the length of hypotenuse in a right triangle with legs 6 and 5,4
+What is the probability of drawing 9 cards without replacement from a deck of 11?,3
+Compute the number of permutations of 5 distinct objects taken 5 at a time,5
+Evaluate the product 7 × 20 ÷ 5,1
+"If A = [[11, 19], [4, 14]], find tr(A)",6
+"What is the circumcircle radius of a triangle with sides 18, 5, 18?",4
+Compute the sum of the infinite geometric series with first term 20 and ratio 6,7
+Find the nth term of the arithmetic sequence with a1=11 and d=12,7
+Compute d/dx (19x^7 + 13x),2
+Convert 10/11 to a decimal,1
+Compute ∂/∂y of 15x^2y + 2xy,2
+"Find eigenvalues of the 2x2 matrix [[12, 1], [15, 10]]",6
+Express 8x^2 - 73 + 8 in factored form,0
+"Solve for x,y: [[3, 3],[16, 7]] [x y]^T = [12, 1]^T",6
+"Find eigenvalues of the 2x2 matrix [[11, 17], [19, 13]]",6
+"Compute the inverse of [[15, 11, 14],[5, 11, 15],[17, 6, 15]] if it exists",6
+Convert 1/16 to a decimal,1
+Find the value of x if x/5 + 6 = 4,0
+"What is the circumcircle radius of a triangle with sides 2, 20, 10?",4
+"Determine if vectors (10, 9, 9) and (1, 2, 8) are orthogonal",6
+Compute the sum of the infinite geometric series with first term 1 and ratio 8,7
+Solve the inequality 9x + 3 > 15,0
+"Compute the inverse of [[11, 8, 6],[1, 17, 16],[19, 15, 17]] if it exists",6
+Simplify the expression (16x^2 - 10x + 9),0
+Find the number of subsets of size 3 from a set of size 9,5
+What is the probability of drawing 5 cards without replacement from a deck of 14?,3
+How many binary relations exist on a set of size 20?,5
+Compute ∂/∂y of 3x^2y + 5xy,2
+Compute d/dx (8x^2 + 4x),2
+Find the remainder when 11 is divided by 9,1
+"What is the expected value of a uniform distribution on [7, 18]?",3
+"If A = [[6, 5], [9, 8]], find tr(A)",6
+Solve the inequality 15x + 3 > 17,0
+"If two events A and B are independent with P(A)=14 and P(B)=14, find P(A∪B)",3
+What is 12% of 9?,1
+"In a binomial distribution with n=16 and p=5, find P(X=18)",3
+"Solve for x,y: [[2, 2],[17, 20]] [x y]^T = [20, 19]^T",6
+Evaluate the product 5 × 1 ÷ 17,1
+"Find eigenvalues of the 2x2 matrix [[12, 12], [9, 1]]",6
+"Solve for x,y: [[4, 19],[1, 20]] [x y]^T = [10, 17]^T",6
+"Find eigenvalues of the 2x2 matrix [[18, 17], [2, 15]]",6
+Compute 5^(1/15).,1
+"If A = [[6, 16], [1, 20]], find tr(A)",6
+Find the nth term of the arithmetic sequence with a1=15 and d=1,7
+Express 11x^2 - 2016 + 4 in factored form,0
+Simplify the expression (18x^2 - 6x + 14),0
+Find the remainder when 18 is divided by 17,1
+Solve the inequality 19x + 20 > 4,0
+Compute 5^(1/1).,1
+"Solve for x,y: [[11, 9],[6, 20]] [x y]^T = [6, 2]^T",6
+What is 18% of 6?,1
+Compute ∂/∂y of 9x^2y + 2xy,2
+"Compute the inverse of [[1, 7, 19],[19, 9, 5],[17, 2, 16]] if it exists",6
+How many surjections from an 3-element set to a 9-element set?,5
+Find the length of hypotenuse in a right triangle with legs 10 and 9,4
+Find the length of hypotenuse in a right triangle with legs 5 and 2,4
+"Find eigenvalues of the 2x2 matrix [[15, 2], [19, 13]]",6
+"Compute the inverse of [[3, 9, 12],[12, 6, 17],[6, 3, 4]] if it exists",6
+"Compute the inverse of [[12, 1, 5],[3, 7, 4],[19, 10, 8]] if it exists",6
+"What is the circumcircle radius of a triangle with sides 3, 1, 17?",4
+"Determine if vectors (16, 17, 13) and (18, 15, 15) are orthogonal",6
+How many binary relations exist on a set of size 12?,5
+What is the probability of drawing 6 cards without replacement from a deck of 16?,3
+Find d^2/dx^2 of x^12,2
+Simplify the expression (18x^2 - 10x + 6),0
+Compute ∂/∂y of 19x^2y + 7xy,2
+"What is the expected value of a uniform distribution on [6, 15]?",3
+"If two events A and B are independent with P(A)=8 and P(B)=6, find P(A∪B)",3
+Find the remainder when 16 is divided by 7,1
+"Compute the Stirling number of the second kind S(9, 19)",5
+Find the number of subsets of size 11 from a set of size 16,5
+Compute the area of a trapezoid with bases 19 and 17 and height 15,4
+"Find eigenvalues of the 2x2 matrix [[4, 8], [7, 18]]",6
+Simplify tan(14°) · cos(7°),4
+"What is the expected value of a uniform distribution on [16, 14]?",3
+Express 20x^2 - 1210 + 9 in factored form,0
+Solve the inequality 2x + 19 > 12,0
+Simplify tan(9°) · cos(17°),4
+Convert 16/17 to a decimal,1
+Find the number of subsets of size 13 from a set of size 6,5
+What is 1% of 14?,1
+Compute d/dx (16x^19 + 13x),2
+"In a binomial distribution with n=13 and p=7, find P(X=4)",3
+"If A = [[12, 1], [18, 19]], find tr(A)",6
+Solve the inequality 12x + 16 > 12,0
+Simplify the expression (2x^2 - 19x + 9),0
+"If two events A and B are independent with P(A)=17 and P(B)=4, find P(A∪B)",3
+"What is the circumcircle radius of a triangle with sides 5, 6, 7?",4
+"Compute the Stirling number of the second kind S(6, 4)",5
+Evaluate the product 15 × 3 ÷ 3,1
+Convert 20/16 to a decimal,1
+"If two events A and B are independent with P(A)=18 and P(B)=8, find P(A∪B)",3
+Find the nth term of the arithmetic sequence with a1=11 and d=1,7
+Compute ∂/∂y of 19x^2y + 5xy,2
+"Find eigenvalues of the 2x2 matrix [[9, 8], [15, 4]]",6
+"If A = [[20, 16], [15, 16]], find tr(A)",6
+Compute the sum of the infinite geometric series with first term 12 and ratio 16,7
+Compute the number of permutations of 12 distinct objects taken 13 at a time,5
+Evaluate the product 18 × 12 ÷ 4,1
+What is 20% of 16?,1
+Simplify tan(5°) · cos(6°),4
+Evaluate the product 17 × 7 ÷ 7,1
+"What is the circumcircle radius of a triangle with sides 4, 6, 20?",4
+Simplify tan(11°) · cos(11°),4
+Convert 19/20 to a decimal,1
+"Solve for x,y: [[2, 3],[10, 18]] [x y]^T = [13, 17]^T",6
+Compute ∂/∂y of 13x^2y + 17xy,2
+Convert 2/11 to a decimal,1
+Compute ∂/∂y of 4x^2y + 6xy,2
+Compute the area of a trapezoid with bases 13 and 16 and height 5,4
+Convert 12/1 to a decimal,1
+Compute the area of a trapezoid with bases 5 and 11 and height 1,4
+Compute ∂/∂y of 5x^2y + 3xy,2
+Solve for x: 3^2 - 4x + 14 = 0,0
+"Determine if vectors (8, 5, 5) and (18, 11, 3) are orthogonal",6
+Find the value of x if x/17 + 13 = 14,0
+How many surjections from an 15-element set to a 17-element set?,5
+Compute the number of permutations of 20 distinct objects taken 2 at a time,5
+Compute the sum of the infinite geometric series with first term 14 and ratio 4,7
+"If two events A and B are independent with P(A)=14 and P(B)=8, find P(A∪B)",3
+"Solve for x,y: [[14, 1],[10, 10]] [x y]^T = [18, 7]^T",6
+Compute the sum of the infinite geometric series with first term 15 and ratio 17,7
+Evaluate ∫ (5x + 3) dx,2
+How many surjections from an 17-element set to a 4-element set?,5
+What is the probability of drawing 6 cards without replacement from a deck of 2?,3
+"What is the circumcircle radius of a triangle with sides 11, 13, 12?",4
+Find d^2/dx^2 of x^3,2
+"In a binomial distribution with n=10 and p=20, find P(X=11)",3
+What is the probability of drawing 11 cards without replacement from a deck of 14?,3
+Convert 6/3 to a decimal,1
+"If two events A and B are independent with P(A)=13 and P(B)=1, find P(A∪B)",3
+Simplify tan(20°) · cos(5°),4
+"If A = [[18, 9], [11, 4]], find tr(A)",6
+Solve for x: 5^2 - 20x + 6 = 0,0
+Determine the 15th Fibonacci number,7
+Evaluate ∫ (16x + 3) dx,2
+"Compute the Stirling number of the second kind S(1, 4)",5
+Solve the inequality 20x + 20 > 18,0
+"What is the circumcircle radius of a triangle with sides 14, 18, 10?",4
+How many binary relations exist on a set of size 16?,5
+"Compute the Stirling number of the second kind S(20, 4)",5
+Solve the inequality 15x + 1 > 9,0
+Find the nth term of the arithmetic sequence with a1=13 and d=1,7
+"Compute the inverse of [[2, 12, 9],[20, 14, 11],[14, 12, 10]] if it exists",6
+"Find eigenvalues of the 2x2 matrix [[2, 12], [16, 2]]",6
+Find the general term of the series defined by a_n = 16n^2 + 9,7
+Find the value of x if x/11 + 4 = 6,0
+Find the nth term of the arithmetic sequence with a1=1 and d=9,7
+Compute d/dx (3x^6 + 11x),2
+"What is the circumcircle radius of a triangle with sides 5, 2, 10?",4
+Find the length of hypotenuse in a right triangle with legs 13 and 13,4
+Find the general term of the series defined by a_n = 8n^2 + 18,7
+"Solve for x,y: [[8, 7],[3, 11]] [x y]^T = [4, 7]^T",6
+"If A = [[4, 10], [10, 17]], find tr(A)",6
+"In a binomial distribution with n=2 and p=4, find P(X=19)",3
+Compute the area of a trapezoid with bases 17 and 19 and height 1,4
+Solve the inequality 8x + 4 > 13,0
+Convert 13/9 to a decimal,1
+Compute ∂/∂y of 17x^2y + 2xy,2
+"Determine if vectors (17, 4, 16) and (19, 6, 3) are orthogonal",6
+"If A = [[12, 18], [6, 20]], find tr(A)",6
+"Compute the Stirling number of the second kind S(9, 1)",5
+"What is the expected value of a uniform distribution on [8, 13]?",3
+"Determine if vectors (4, 10, 2) and (1, 17, 5) are orthogonal",6
+Find the remainder when 4 is divided by 14,1
+Find the nth term of the arithmetic sequence with a1=7 and d=9,7
+Find d^2/dx^2 of x^16,2
+Compute d/dx (8x^15 + 14x),2
+Compute the number of permutations of 6 distinct objects taken 11 at a time,5
+"Compute the inverse of [[1, 5, 2],[8, 14, 20],[15, 19, 12]] if it exists",6
+Find the general term of the series defined by a_n = 9n^2 + 13,7
+Find the general term of the series defined by a_n = 16n^2 + 10,7
+"If two events A and B are independent with P(A)=19 and P(B)=4, find P(A∪B)",3
+"Compute the inverse of [[7, 18, 15],[9, 8, 2],[9, 1, 17]] if it exists",6
+Compute the area of a trapezoid with bases 5 and 19 and height 8,4
+Express 7x^2 - 213 + 5 in factored form,0
+Simplify tan(8°) · cos(20°),4
+"In a binomial distribution with n=8 and p=3, find P(X=13)",3
+Simplify the expression (17x^2 - 14x + 7),0
+What is 16% of 10?,1
+"Compute the Stirling number of the second kind S(7, 7)",5
+"Determine if vectors (4, 2, 8) and (12, 14, 7) are orthogonal",6
+Compute ∂/∂y of 6x^2y + 8xy,2
+Solve the inequality 4x + 9 > 2,0
+How many surjections from an 3-element set to a 11-element set?,5
+Find the remainder when 20 is divided by 5,1
+Find the remainder when 20 is divided by 1,1
+How many surjections from an 19-element set to a 10-element set?,5
+Compute the area of a trapezoid with bases 18 and 7 and height 3,4
+"Find eigenvalues of the 2x2 matrix [[11, 17], [5, 10]]",6
+Solve for x: 18^2 - 15x + 15 = 0,0
+Solve the inequality 20x + 5 > 5,0
+Simplify the expression (13x^2 - 7x + 10),0
+"Solve for x,y: [[7, 19],[11, 15]] [x y]^T = [9, 15]^T",6
+"What is the expected value of a uniform distribution on [6, 1]?",3
+Evaluate the product 8 × 13 ÷ 19,1
+Compute the area of a trapezoid with bases 3 and 15 and height 11,4
+Find the general term of the series defined by a_n = 4n^2 + 7,7
+Solve the inequality 3x + 6 > 6,0
+"What is the expected value of a uniform distribution on [5, 15]?",3
+Compute the area of a trapezoid with bases 5 and 13 and height 13,4
+"What is the expected value of a uniform distribution on [14, 14]?",3
+Find the general term of the series defined by a_n = 12n^2 + 13,7
+How many binary relations exist on a set of size 19?,5
+Convert 17/3 to a decimal,1
+Express 15x^2 - 1111 + 10 in factored form,0
+Find the value of x if x/18 + 11 = 16,0
+Solve the inequality 15x + 12 > 9,0
+Compute 19^(1/11).,1
+Compute d/dx (16x^14 + 10x),2
+"Determine if vectors (9, 16, 15) and (6, 2, 10) are orthogonal",6
+Find the number of subsets of size 9 from a set of size 14,5
+What is 3% of 10?,1
+"If two events A and B are independent with P(A)=12 and P(B)=10, find P(A∪B)",3
+What is the probability of drawing 15 cards without replacement from a deck of 13?,3
+Evaluate the product 16 × 12 ÷ 18,1
+"Determine if vectors (12, 15, 8) and (5, 1, 15) are orthogonal",6
+"If A = [[3, 17], [18, 16]], find tr(A)",6
+"What is the circumcircle radius of a triangle with sides 2, 14, 8?",4
+How many surjections from an 12-element set to a 13-element set?,5
+"Solve for x,y: [[11, 20],[17, 18]] [x y]^T = [15, 1]^T",6
+Find the value of x if x/10 + 16 = 19,0
+Compute the number of permutations of 10 distinct objects taken 10 at a time,5
+"Determine if vectors (20, 2, 3) and (16, 4, 6) are orthogonal",6
+"Solve for x,y: [[14, 20],[12, 19]] [x y]^T = [20, 3]^T",6
+Solve the inequality 12x + 9 > 11,0
+Convert 8/7 to a decimal,1
+Compute 3^(1/20).,1
+Compute the area of a trapezoid with bases 17 and 13 and height 6,4
+How many binary relations exist on a set of size 9?,5
+"Compute the inverse of [[16, 8, 13],[16, 1, 20],[6, 10, 2]] if it exists",6
+Compute the area of a trapezoid with bases 4 and 4 and height 13,4
+"In a binomial distribution with n=18 and p=1, find P(X=6)",3
