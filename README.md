@@ -80,23 +80,17 @@ project/
 
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd project
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```powershell
    pip install -r requirements.txt
    ```
 
-3. Create required directories (if they don't exist):
+2. Create required directories (if they don't exist):
    ```powershell
    mkdir -p data models mlruns monitoring
    ```
 
-4. Download NLTK resources (will be done automatically during first run):
+3. Download NLTK resources (will be done automatically during first run):
    ```powershell
    python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
    ```
