@@ -130,13 +130,13 @@ python src/hyperopt_tuning.py --model-type rf --max-evals 20 --register-model
 #### Sentence Embeddings Model
 
 ```powershell
-python src/train_embeddings.py --embedding-model "all-MiniLM-L6-v2" --register-model
+python src/train_embeddings.py --register-model
 ```
 
 #### DeBERTa Transformer Model
 
 ```powershell
-python src/train_enhanced.py --model-approach deberta --register-model
+python src/train_enhanced.py --model-approach deberta --use-feature-engineering --feature-integration-mode hybrid --register-model
 ```
 
 #### Hybrid Ensemble Model
@@ -156,7 +156,7 @@ python src/ensemble_hyperopt.py --base-model-types lr,rf,gb --ensemble-type voti
 #### Stacking Ensemble
 
 ```powershell
-python src/ensemble_hyperopt.py --base-model-types lr,rf,gb,svm --ensemble-type stacking --register-model
+python src/ensemble_hyperopt.py --model-types lr,rf,gb,svm --ensemble-type stacking --register-model
 ```
 
 ## Serving Models
@@ -167,8 +167,8 @@ Start the model server with a web interface:
 
 ```powershell
 python serve_model.py --port 5001
-python serve_model.py --model math-topic-classifier --version 1
-python serve_model.py --model math-topic-classifier --stage Production
+python serve_model.py --model math-topic-classifier-embeddings --version 1
+python serve_model.py --model math-topic-classifier-embeddings --stage Production
 python serve_model.py --change-stage --model math-topic-classifier --version 1 --target-stage Production
 ```
 
