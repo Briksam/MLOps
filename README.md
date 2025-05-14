@@ -26,26 +26,6 @@ The system features:
 - **Performance Monitoring**: Track drift and performance metrics over time
 - **Interactive UI**: Web interface for model management and testing
 
-## System Architecture
-
-```
-┌───────────────┐    ┌───────────────┐    ┌──────────────────┐
-│  Data Sources │───▶│  Preprocessing │───▶│  Model Training  │
-└───────────────┘    └───────────────┘    └──────────────────┘
-                                                   │
-┌───────────────┐    ┌───────────────┐             ▼
-│  Monitoring   │◀───│  Model Serving │◀────┐  ┌──────────────┐
-└───────────────┘    └───────────────┘     │  │ MLflow Model │
-                            ▲              │  │  Registry    │
-                            │              │  └──────────────┘
-                      ┌─────────────┐      │         │
-                      │    Users    │◀─────┘         │
-                      └─────────────┘                ▼
-                                             ┌──────────────────┐
-                                             │ Hyperparameter   │
-                                             │ Optimization     │
-                                             └──────────────────┘
-```
 
 ## Project Structure
 
