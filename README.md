@@ -145,7 +145,7 @@ python src/train_enhanced.py --model-approach deberta --use-feature-engineering 
 python src/train_enhanced.py --model-approach hybrid --traditional-models lr,rf --register-model
 ```
 
-### Creating Ensembles
+### Creating Ensembles From Tuned Base Models
 
 #### Voting Ensemble
 
@@ -159,7 +159,7 @@ python src/ensemble_hyperopt.py --base-model-types lr,rf,gb --ensemble-type voti
 python src/ensemble_hyperopt.py --model-types lr,rf,gb,svm --ensemble-type stacking --register-model
 ```
 
-## Serving Models
+## Serving Models & Changing Model Stage
 
 ### Using FastAPI Server
 
