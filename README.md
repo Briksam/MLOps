@@ -130,7 +130,7 @@ python src/train_enhanced.py --model-approach hybrid --traditional-models lr,rf 
 #### Voting Ensemble
 
 ```powershell
-python src/ensemble_hyperopt.py --base-model-types lr,rf,gb --ensemble-type voting --register-model
+python src/ensemble_hyperopt.py --model-types lr,rf,gb --ensemble-type voting --register-model
 ```
 
 #### Stacking Ensemble
